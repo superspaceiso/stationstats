@@ -1,0 +1,2497 @@
+Station,Rank,Station Entries,Station Exits,"Prioritised for investment, by band.",Station proritised as a geographical filler.,Current Accessibility,,,,
+,,,Station Exits,,,Step-free access,PA,CIS,Station staffing,Overall accessibility
+London Bridge,1,39694456,41079297,1,,Part,ü,ü,Full,Part
+London Waterloo,2,33857325,34574013,,,Full,ü,ü,Full,Full
+London Victoria,3,30628887,31018870,,,Full,ü,ü,Full,Full
+London Kings Cross,4,23989317,25148376,,,Full,ü,ü,Full,Full
+London Liverpool Street,5,19843988,19124826,,,Full,ü,ü,Full,Full
+London Euston,6,13585027,14202208,,,Full,ü,ü,Full,Full
+London Paddington,7,12693885,12568619,,,Full,ü,ü,Full,Full
+Glasgow Central,8,11618852,11339404,,,Full,ü,ü,Full,Full
+London Fenchurch Street,9,8384271,8634900,,,Full,ü,ü,Full,Full
+Clapham Junction,10,8353269,8768939,1,,Part,ü,ü,Full,Part
+Manchester Piccadilly,11,8021154,8229199,,,Full,ü,ü,Full,Full
+Birmingham N St,12,7084759,7135777,,,Full,ü,ü,Full,Full
+East Croydon,13,6735485,6879058,1,,Part,ü,ü,Full,Part
+City Thameslink,14,6441454,6509684,,,Full,ü,ü,Full,Full
+Reading,15,6420929,6524979,,,Full,ü,ü,Full,Full
+Edinburgh,16,6293725,6177042,,,Full,ü,ü,Full,Full
+Wimbledon,17,5918415,5469685,,,Full,ü,ü,Full,Full
+Leeds,18,5654772,5630921,,,Full,ü,ü,Full,Full
+Brighton,19,5148593,5219615,,,Full,ü,ü,Full,Full
+Liverpool Lime Street,20,5077131,6064338,1,,Part,ü,ü,Full,Part
+Gatwick Airport,21,4420913,4220423,,,Full,ü,ü,Full,Full
+Cardiff Central,22,3977244,3972151,,,Full,ü,ü,Full,Full
+Richmond London,23,3444535,3130636,,,Full,ü,ü,Full,Full
+Chelmsford,24,3217951,3227414,,,Full,ü,ü,Full,Full
+Marylebone,25,3209901,3144616,,,Full,ü,ü,Full,Full
+Putney,26,3134361,3156408,1,,No,ü,ü,Full,Part
+Guildford,27,3011199,3042307,1,,Part,ü,ü,Full,Part
+Woking,28,2925966,2950230,1,,Part,ü,ü,Full,Part
+Surbiton,29,2800393,2762321,,,Full,ü,ü,Full,Full
+London Charing Cross,30,2746175,2079726,,,Full,ü,ü,Full,Full
+Cambridge,31,2742837,2735275,,,Full,ü,ü,Full,Full
+Nottingham,32,2714759,2728896,,,Full,ü,ü,Full,Full
+St Albans,33,2700815,2682777,1,,Part,ü,ü,Full,Part
+Ealing Broadway,34,2625702,2631318,1,,No,ü,ü,Full,Part
+Romford,35,2613600,2595251,1,,Part,ü,,Full,Part
+Bristol Temple Meads,36,2590543,2586575,,,Full,ü,ü,Full,Full
+Barking,37,2529805,2157860,,,Full,ü,ü,Full,Full
+York,38,2500244,2485152,,,Full,ü,ü,Full,Full
+Newcastle,39,2459693,2409969,1,,Part,ü,ü,Full,Part
+Walthamstow Central,40,2454538,2179078,1,,Part,ü,,Part,Part
+Bromley South,41,2344985,2364269,,,Full,ü,ü,Full,Full
+Sutton London,42,2312045,2306758,,,Full,ü,ü,Full,Full
+London St Pancras,43,2245111,2184741,,,Insufficient info provided by station operator,,,Full,Part
+Slough,44,2202951,2223070,1,,Part,ü,ü,Full,Part
+Southampton Central,45,2179367,2198135,,,Full,ü,ü,Full,Full
+Leicester,46,2134106,2133285,,,Full,ü,ü,Full,Full
+Sheffield,47,2128662,2119159,,,Full,ü,ü,Full,Full
+Colchester,48,1991933,2013936,,,Full,ü,ü,Full,Full
+Milton Keynes Central,49,1961059,1964039,,,Full,ü,ü,Full,Full
+Watford Junction,50,1940814,1934565,,,Full,ü,ü,Full,Full
+Ilford,51,1877753,1801282,,,Part,ü,ü,Full,Part
+Basingstoke,52,1834854,1834370,,,Part,ü,ü,Full,Part
+Tonbridge,53,1828743,1810979,,,Full,ü,ü,Full,Full
+Oxford,54,1821789,1826761,,,Full,ü,ü,Full,Full
+Lewisham,55,1782870,1823557,1,,Part,ü,ü,Full,Part
+Upminster,56,1762689,1686852,,,Full,ü,ü,Full,Full
+Orpington,57,1749734,1733564,1,,Part,ü,ü,Part,Part
+Haywards Heath,58,1722757,1725833,,,Full,ü,ü,Full,Full
+Peterborough,59,1691286,1695294,1,,Part,,,Full,Part
+Bath Spa,60,1673508,1659163,1,,Part,ü,ü,Part,Part
+Stevenage,61,1639869,1627162,,,Full,ü,ü,Full,Full
+Maidenhead,62,1636203,1655730,1,,Part,ü,ü,Full,Part
+Finsbury Park,63,1627162,1379703,1,,No,ü,ü,Full,Part
+Sevenoaks,64,1626678,1640708,,,Full,ü,ü,Full,Full
+Earlsfield,65,1608730,1611176,1,,No,,ü,Part,Part
+Epsom,66,1602713,1594041,1,,Part,ü,ü,Full,Part
+Tunbridge Wells,67,1507976,1519571,1,,Part,,ü,Full,Part
+Stansted Airport,68,1476956,1501815,,,Full,ü,ü,Full,Full
+Luton,69,1473354,1506640,1,,Part,ü,ü,Full,Part
+Winchester,70,1470853,1471791,1,,Part,ü,ü,Full,Part
+Balham,71,1460199,1450191,1,,No,ü,ü,Part,Part
+Redhill,72,1454155,1463512,1,,Part,ü,ü,Part,Part
+Chatham,73,1434884,1444603,1,,Part,ü,ü,Full,Part
+Portsmouth & Southsea,74,1423654,1496854,,,Full,ü,ü,Full,Full
+Preston,75,1396347,1383419,,,Full,ü,ü,Full,Full
+Eastbourne,76,1376029,1381600,,,Full,ü,ü,Full,Full
+Shenfield,77,1357416,1343794,,,Full,ü,ü,Full,Full
+Billericay,78,1357310,1361332,,,Full,ü,ü,Part,Part
+Dartford,79,1356672,1359001,,,Full,ü,ü,Full,Full
+New Cross,80,1348852,1234130,1,,Part,ü,ü,Part,Part
+Bedford,81,1321062,1331294,,,Full,ü,ü,Full,Full
+Twickenham,82,1308179,1320998,1,,Part,ü,ü,Full,Part
+Kingston,83,1296601,1346182,1,,Part,ü,ü,Full,Part
+Paisley Gilmour St,84,1283947,1276028,,,Full,ü,ü,Full,Full
+Southend Central,85,1265063,1339302,,,Full,ü,ü,Part,Part
+Stratford London,86,1241538,1355852,,,Full,ü,ü,Full,Full
+New Cross Gate,87,1238503,1030791,1,,No,ü,ü,Full,Part
+Kings Cross Thameslink,88,1225560,1136159,1,,No,ü,ü,Full,Part
+Abbey Wood,89,1225282,1200118,,,Full,ü,ü,Part,Part
+Harpenden,90,1222696,1206756,1,,Part,ü,ü,Part,Part
+Benfleet,91,1222279,1225085,,,Full,ü,ü,Part,Part
+Sidcup,92,1217671,1203479,,,Full,ü,ü,Insufficient info provided by station operator,Part
+Glasgow Queen Street,93,1206306,822567,1,,Part,ü,ü,Full,Part
+Woolwich Arsenal,94,1205806,1155026,,,Full,ü,ü,Full,Full
+Derby,95,1202503,1195784,,,Full,ü,ü,Full,Full
+Norwich,96,1196989,1154247,,,Full,ü,ü,Full,Full
+Brentwood,97,1188279,1173360,1,,Part,ü,ü,Part,Part
+Peckham Rye,98,1184929,1178565,2,,No,ü,ü,Full,Part
+Coventry,99,1178914,1170755,,,Full,ü,ü,Full,Full
+Doncaster,100,1172871,1174713,,,Full,ü,ü,Full,Full
+Raynes Park,101,1162489,1108035,2,,Part,ü,ü,Full,Part
+Blackheath,102,1148855,1132090,2,,Part,ü,ü,Part,Part
+Grays,103,1126344,1106995,,,Part,ü,ü,Part,Part
+Bexleyheath,104,1117715,1108674,,,Full,ü,ü,Part,Part
+Witham,105,1085714,1087829,,,Full,ü,ü,Full,Full
+Hither Green,106,1085667,1052046,2,,Part,ü,ü,Full,Part
+Bishops Stortford,107,1084301,1082374,,,Full,ü,ü,Full,Full
+Chester,108,1083384,1079698,,,Full,ü,ü,Full,Full
+Forest Hill,109,1078267,1047524,2,,Part,ü,ü,Part,Part
+Farnborough Main,110,1070617,1076311,2,,Part,ü,ü,Insufficient info provided by station operator,Part
+London Cannon Street,111,1052878,877385,,,Full,ü,ü,Full,Full
+Swindon,112,1052290,1064794,2,,Part,ü,ü,Full,Part
+Bournemouth,113,1050951,1057215,,,Full,ü,ü,Full,Full
+Ashford Kent,114,1037152,1035148,,,Full,ü,ü,Full,Full
+Chichester,115,1035704,1016846,2,,Part,ü,ü,Full,Part
+Lewes,116,1029941,1026117,2,,Part,ü,ü,Full,Part
+Wickford,117,1024489,1025865,2,,Part,ü,ü,Full,Part
+Didcot Parkway,118,1017399,1019286,,,Full,ü,ü,Full,Full
+Rayleigh,119,1016412,1018186,2,,Part,ü,ü,Part,Part
+Norwood Junction,120,1011658,1004227,2,,Part,ü,ü,Full,Part
+Ipswich,121,1008970,1013576,,,Part,ü,ü,Full,Part
+Gravesend,122,1002545,1006475,,,Full,ü,ü,Full,Full
+Birmingham Intl,123,997869,960347,,,Full,ü,ü,Full,Full
+Basildon,124,986217,975192,,,Full,ü,ü,Part,Part
+Streatham Common,125,985916,990540,2,,No,ü,ü,Part,Part
+Worthing,126,978831,978997,2,,Part,ü,ü,Full,Part
+Gillingham Kent,127,978638,984489,,,Full,ü,ü,Full,Full
+Three Bridges,128,974431,978373,2,,No,ü,ü,Part,Part
+Wolverhampton,129,973878,987066,,,Full,ü,ü,Full,Full
+New Malden,130,970587,960346,2,,Part,,ü,Part,Part
+Herne Hill,131,970286,943403,2,,No,,ü,Full,Part
+Kew Gardens,132,943461,798289,2,,Part,ü,ü,Part,Part
+Cardiff Queen Street,133,943045,898215,,,Full,ü,ü,Part,Part
+Harold Wood,134,934529,944871,2,,Part,ü,,Part,Part
+Sittingbourne,135,931718,921055,2,,Part,ü,ü,Part,Part
+High Wycombe,136,925565,928676,,,Part,ü,ü,Full,Part
+Gidea Park,137,924409,913723,2,,No,ü,,Full,Part
+Eltham,138,923877,905948,2,,Part,ü,ü,Part,Part
+Chadwell Heath,139,919398,917474,2,,No,ü,,Part,Part
+Purley,140,917199,917426,2,,Part,ü,,Full,Part
+Havant,141,916100,914102,2,,Part,ü,ü,Full,Part
+Huddersfield,142,915891,910122,,,Full,ü,,Full,Part
+Horsham,143,909535,925045,2,,No,ü,ü,Full,Part
+Hull,144,905362,884616,,,Full,ü,,Full,Part
+Elstree & Borehamwood,145,900381,905417,2,,Part,ü,ü,Part,Part
+Aberdeen,146,898582,862459,,,Full,ü,ü,Full,Full
+Stockport,147,898547,896913,,,Full,ü,ü,Full,Full
+Hitchin,148,898544,908345,,,Full,ü,ü,Part,Part
+Thornton Heath,149,897950,890184,2,,No,ü,ü,Part,Part
+Liverpool Central,150,888991,197545,,,Full,ü,ü,Full,Full
+New Eltham,151,887773,876419,2,,Part,ü,ü,Part,Part
+Queens Park London,152,886035,901656,2,,No,ü,,Part,Part
+Beckenham Junction,153,884001,877456,,,Full,ü,ü,Full,Full
+Charing Cross Glasgow,154,882100,920143,,,Full,ü,ü,Full,Full
+Welling,155,880124,883295,2,,Part,ü,ü,Part,Part
+Canterbury West,156,878061,914385,2,,Part,ü,ü,Part,Part
+Rainham (Kent),157,878017,885673,,,Full,ü,ü,Part,Part
+Limehouse,158,876256,914334,2,,No,ü,ü,Full,Part
+Staines,159,876204,877314,3,,Part,ü,ü,Full,Part
+Bradford Interchange,160,874823,973496,,,Full,ü,ü,Full,Full
+Greenwich,161,874118,883111,,,Full,ü,ü,Part,Part
+Petts Wood,162,873532,862345,3,,No,ü,ü,Part,Part
+Willesden Junction,163,863385,795334,,,Full,ü,ü,Part,Part
+Welwyn Garden City,164,862636,854798,3,,Part,ü,ü,Part,Part
+Northampton,165,857287,866292,,,Full,ü,ü,Part,Part
+Walton On Thames,166,843942,830041,3,,Part,ü,ü,Part,Part
+Grove Park,167,832896,805714,3,,Part,ü,ü,Full,Part
+Wokingham,168,832240,825770,,,Full,ü,ü,Full,Full
+Hove,169,830123,821284,3,,Part,ü,ü,Full,Part
+Newport Gwent,170,828931,827711,,,Full,ü,ü,Part,Part
+Gunnersbury,171,824289,685955,3,,No,ü,,Part,Part
+Sydenham,172,813576,799686,3,,Part,ü,ü,Part,Part
+Luton Airport Parkway,173,809626,759552,,,Full,ü,ü,Full,Full
+Bolton,174,800004,812790,,,Full,ü,ü,Full,Full
+Battersea Park,175,799019,791066,3,,No,ü,ü,Part,Part
+Streatham Hill,176,797326,781894,3,,No,ü,ü,Part,Part
+Denmark Hill,177,797286,771648,3,,No,,ü,Part,Part
+Harlow Town,178,789751,790983,,,Full,ü,ü,Full,Full
+Blackpool North,179,789611,782669,,,Full,ü,ü,Full,Full
+Bracknell,180,774729,784692,3,,Part,ü,ü,Part,Part
+Crewe,181,773969,763846,,,Full,ü,ü,Full,Full
+Norbury,182,773940,758486,3,,Part,ü,ü,Part,Part
+Laindon,183,769559,763077,,,Full,ü,ü,Part,Part
+London Blackfriars,184,767873,676946,3,,Part,ü,ü,Full,Part
+Exeter St Davids,185,766438,763280,,,Full,ü,ü,Full,Full
+Darlington,186,753895,755387,,,Full,ü,ü,Full,Full
+Weybridge,187,752615,758320,3,,Part,ü,,Part,Part
+Leigh On Sea,188,742654,746634,,,Full,ü,ü,Part,Part
+Goodmayes,189,733703,738615,3,,No,ü,,Part,Part
+Crawley,190,730930,739588,3,,Part,ü,ü,Part,Part
+Plymouth,191,721187,710487,,,Full,ü,ü,Full,Full
+Stirling,192,719760,695066,3,,Part,ü,ü,Full,Part
+Wakefield Westgate,193,718535,733052,3,,Part,ü,ü,Full,Part
+Salisbury,194,717690,718964,,,Full,ü,ü,Full,Full
+Feltham,195,710635,702231,,,Full,ü,ü,Full,Full
+Hastings,196,710113,711886,,,Full,ü,ü,Full,Full
+Seven Kings,197,701306,693393,3,,No,ü,,Part,Part
+Teddington,198,698586,673946,3,,Part,ü,ü,Part,Part
+Swansea,199,698543,685008,,,Full,ü,ü,Part,Part
+Windsor & Eton Central,200,697521,686097,,,Full,ü,ü,None,Part
+Potters Bar,201,694669,687377,,,Full,ü,ü,Part,Part
+Brockley,202,693428,732545,3,,Part,ü,ü,None,Part
+Worcester Park,203,684988,668688,3,,Part,ü,,Part,Part
+Durham,204,684314,675111,1,ü,Part,ü,ü,Full,Part
+Broxbourne,205,680227,675066,,,Full,ü,ü,Full,Full
+Streatham,206,677269,695459,3,,No,ü,ü,Full,Part
+Chafford Hundred,207,670306,706080,,,Full,ü,ü,Part,Part
+Cheshunt,208,662022,659595,3,,Insufficient info provided by station operator,ü,ü,Part,Part
+Faversham,209,656967,659851,,,Full,ü,ü,Full,Full
+Wallington,210,655043,644811,3,,Part,ü,ü,Part,Part
+Hayes & Harlington,211,654806,642907,3,,Part,ü,ü,Full,Part
+Bristol Parkway,212,649053,644139,,,Full,ü,ü,Full,Full
+Manchester Airport,213,647436,572932,,,Full,ü,ü,Full,Full
+Highams Park,214,645169,634260,3,,Part,ü,,None,Part
+Newbury,215,641859,644700,,,Full,ü,ü,Full,Full
+Harrow & Wealdstone,216,636882,621051,3,,Part,ü,ü,Full,Part
+Huntingdon,217,636743,640421,3,,Part,ü,ü,Part,Part
+Edmonton Green,218,634378,615798,3,,No,ü,ü,Part,Part
+Shrewsbury,219,632653,625593,,,Full,ü,ü,Full,Full
+Barnehurst,220,631739,619651,3,,Part,ü,ü,Part,Part
+Haslemere,221,631693,642828,3,,Part,ü,ü,Full,Part
+Vauxhall,222,629889,499648,,,No,ü,ü,Full,Part
+Leagrave,223,628033,624985,1,,No,ü,,Part,Part
+Burgess Hill,224,626372,627829,,,Part,ü,ü,Part,Part
+Hemel Hempstead,225,624879,648461,,,Part,ü,ü,Part,Part
+Leatherhead,226,623575,631076,,,No,ü,ü,Part,Part
+West Croydon,227,622609,487867,,,No,ü,ü,Full,Part
+Chingford,228,622543,612451,,,Full,ü,ü,None,Part
+Mill Hill Broadway,229,618964,617140,1,,No,ü,,None,Part
+Swanley,230,616609,621339,,,No,ü,ü,Full,Part
+Lincoln Central,231,614744,600594,,,Full,ü,ü,Full,Full
+Dalston Kingsland,232,614622,577806,,,No,ü,ü,None,Part
+Norbiton,233,614426,608668,,,Part,ü,ü,Part,Part
+Forest Gate,234,612358,596708,1,,No,ü,,Part,Part
+Hackney Downs,235,610208,618841,,,No,ü,ü,Part,Part
+Gipsy Hill,236,609090,590769,,,No,ü,ü,Part,Part
+Haymarket,237,607081,480675,,,Part,ü,ü,Full,Part
+Dundee,238,606834,597472,,,Full,ü,ü,Full,Full
+Worcester Shrub Hill,239,597810,627947,,,Part,ü,ü,Part,Part
+Oxted,240,596488,593989,,,Part,ü,ü,Full,Part
+Wembley Central,241,591637,600353,,,No,ü,ü,Full,Part
+Egham,242,591476,592559,,,Full,ü,ü,Part,Part
+Ayr,243,587053,566524,,,Part,ü,ü,Full,Part
+Lee,244,583173,567931,,,Full,ü,ü,Part,Part
+Kensal Green,245,582649,465737,1,,No,ü,,Part,Part
+Dorking,246,581461,587232,,,Part,ü,ü,Full,Part
+Chippenham,247,572595,578207,1,ü,No,ü,ü,Part,Part
+Mortlake,248,570676,589380,,,Part,ü,ü,Part,Part
+Loughborough,249,569005,577089,1,ü,Part,ü,ü,Full,Part
+Leighton Buzzard,250,568606,574057,,,Part,ü,ü,Part,Part
+Hertford North,251,565539,590944,,,Part,ü,ü,Part,Part
+Fratton,252,564494,545437,,,Part,ü,ü,Part,Part
+Partick,253,564197,540626,,,Part,ü,ü,Full,Part
+Hatfield Herts,254,562504,567642,,,Part,ü,ü,Full,Part
+Lancaster,255,562252,553196,,,Full,ü,ü,Full,Full
+Maidstone West,256,561177,600226,,,Part,ü,ü,Full,Part
+Birkenhead Hamltn Sq,257,560118,461444,,,Full,ü,ü,Full,Full
+Catford Bridge,258,559264,511750,,,Part,ü,ü,Part,Part
+Fareham,259,558860,560535,,,Part,ü,ü,Part,Part
+Stoke On Trent,260,556910,560812,2,ü,Part,ü,ü,Part,Part
+Enfield Town,261,549655,543421,,,Full,ü,ü,Part,Part
+Exeter Central,262,548330,529449,1,ü,Part,ü,ü,Full,Part
+Southport,263,543126,537641,,,Full,ü,ü,Full,Full
+Letchworth,264,541998,549231,,,No,ü,ü,Full,Part
+Carlisle,265,540094,532877,1,ü,Part,,,Full,Part
+Wigan North Western,266,534534,573546,,,Full,ü,ü,Full,Full
+Camden Road,267,533888,553503,,,No,ü,ü,Full,Part
+Paddock Wood,268,533472,533913,,,Part,ü,ü,Part,Part
+Flitwick,269,531789,533383,,,Part,ü,ü,Part,Part
+Wandsworth Town,270,529857,522921,,,No,ü,ü,Part,Part
+Honor Oak Park,271,529351,505007,,,No,ü,ü,Part,Part
+Twyford,272,528591,525009,,,Part,ü,ü,Full,Part
+Fleet,273,525048,532782,,,Part,ü,ü,Part,Part
+Southend Victoria,274,524614,446973,,,Full,ü,ü,Full,Full
+Tulse Hill,275,520641,508019,,,No,ü,ü,Part,Part
+Ely,276,519018,519690,,,Part,ü,ü,Full,Part
+Berkhamsted,277,518665,523743,1,,Part,ü,,Full,Part
+Farnham,278,516337,523813,,,Part,ü,ü,Full,Part
+Charlton,279,514814,502606,1,,Full,,ü,Part,Part
+Mottingham,280,510191,496380,,,Full,ü,ü,Part,Part
+Aldershot,281,508639,514393,,,Part,ü,ü,Full,Part
+Hockley,282,507004,504939,,,Part,ü,ü,Part,Part
+Eastleigh,283,505548,500960,,,Full,ü,ü,Full,Full
+Shortlands,284,501917,505798,,,No,ü,ü,Part,Part
+Leamington Spa,285,499336,491775,,,Full,ü,ü,Full,Full
+East Grinstead,286,498318,500538,,,Part,ü,ü,Part,Part
+Meadowhall,287,498002,487221,1,,Full,ü,,Part,Part
+Southampton A Parkway,288,496999,490403,,,Part,ü,ü,Full,Part
+Beaconsfield,289,495517,500513,,,Insufficient info provided by station operator,ü,,Part,Part
+Chalkwell,290,493319,488727,,,No,ü,ü,Part,Part
+St Mary Cray,291,489656,486180,,,No,ü,ü,Full,Part
+West Norwood,292,488596,479704,,,No,ü,ü,Part,Part
+Stafford,293,486776,483135,2,ü,Part,,,Full,Part
+Shoreham By Sea,294,480555,478776,,,No,ü,ü,Part,Part
+Aylesbury,295,477386,461647,,,Part,ü,ü,Full,Part
+Southall,296,476900,469623,,,Part,ü,ü,Full,Part
+Crayford,297,476344,479205,,,Part,ü,ü,Part,Part
+Radlett,298,476027,475890,,,No,ü,ü,Part,Part
+Gerrards Cross,299,473198,473822,,,Insufficient info provided by station operator,ü,,Part,Part
+Royston,300,465708,469730,,,Full,ü,,Full,Part
+West Hampstd Thm,301,465480,380629,,,No,ü,ü,Part,Part
+Rugby,302,463075,467896,,,Part,ü,ü,Full,Part
+Brockenhurst,303,462402,461713,,,Part,ü,ü,Part,Part
+Poole,304,461343,459310,,,Full,ü,ü,Part,Part
+Banbury,305,459864,460738,,,Full,ü,ü,Full,Full
+Petersfield,306,455930,458255,,,Part,ü,ü,Full,Part
+Middlesbrough,307,455229,447494,,,Full,ü,,Part,Part
+Pitsea,308,453782,446380,,,Part,ü,ü,Full,Part
+Motherwell,309,450964,457150,1,ü,Part,ü,ü,Full,Part
+Bognor Regis,310,449873,455809,,,Full,ü,ü,Full,Full
+Chesterfield,311,447935,456114,,,Full,ü,ü,Full,Full
+Harrogate,312,444915,442460,1,,Full,,,Full,Part
+Kirkcaldy,313,443510,447258,,,Full,ü,ü,Full,Full
+West Byfleet,314,442843,436986,,,Part,ü,ü,Part,Part
+Bexley,315,441210,442247,,,Part,ü,ü,Part,Part
+Warrington Bank Quay,316,441174,507857,1,ü,Part,ü,ü,Full,Part
+Linlithgow,317,439035,473366,1,ü,Part,ü,ü,Full,Part
+Crystal Palace,318,438870,434383,,,No,ü,ü,Part,Part
+Cheltenham Spa,319,437147,443915,,,Full,ü,ü,Full,Full
+Helensburgh Central,320,434621,419978,,,Full,ü,ü,Full,Full
+Keighley,321,432802,442069,,,Full,ü,ü,Part,Part
+Bexhill,322,430711,429722,,,No,ü,ü,Part,Part
+Ascot Berks,323,429466,428409,,,Part,ü,ü,Part,Part
+Dover Priory,324,428898,417240,,,Full,ü,ü,Full,Full
+Elmstead Woods,325,428546,422868,,,Part,ü,ü,Part,Part
+Chislehurst,326,428471,417756,1,,Part,ü,,Part,Part
+Manor Park,327,427475,447731,,,No,ü,ü,Part,Part
+Penge East,328,427138,385792,,,Part,ü,ü,Part,Part
+Clapton,329,426840,443888,,,No,ü,ü,Part,Part
+Barnes,330,425841,420503,,,Part,ü,ü,Part,Part
+Catford,331,424836,457307,1,,No,,ü,Part,Part
+Westcliff,332,424829,419171,,,Part,ü,ü,Part,Part
+Godalming,333,422939,427128,,,Part,ü,ü,Part,Part
+Kettering,334,422362,431628,,,Full,ü,ü,Full,Full
+Burnham Bucks,335,422104,426582,,,No,ü,ü,Part,Part
+Wandsworth Common,336,420111,404374,,,No,ü,ü,Part,Part
+Johnstone Strathclyd,337,419622,425379,,,Full,ü,ü,Full,Full
+Windsor & Eton Riverside,338,419337,418485,,,Full,ü,ü,Full,Full
+Kensington Olympia,339,418752,343351,,,Full,ü,ü,Full,Full
+Hassocks,340,413867,411448,,,No,ü,ü,Part,Part
+Rainham London,341,413351,407895,,,Part,ü,ü,Part,Part
+Andover,342,413334,420118,,,Full,ü,ü,Part,Part
+Falkirk Grahamston,343,408711,459940,,,Full,ü,ü,Full,Full
+Maidstone East,344,407141,359602,,,Part,ü,ü,Full,Part
+Clock House,345,406269,405884,,,No,ü,ü,Part,Part
+University,346,405430,379687,,,Full,ü,ü,Full,Full
+Grantham,347,404010,402289,2,ü,Part,ü,ü,Full,Part
+Palmers Green,348,401678,393455,1,,No,ü,,Part,Part
+Airdrie,349,398736,403606,,,Full,ü,ü,Full,Full
+Hampton Court,350,398511,383914,,,Full,ü,ü,Part,Part
+Inverkeithing,351,394844,393610,,,Full,ü,ü,Full,Full
+Stanford Le Hope,352,394720,385226,,,Full,ü,ü,Part,Part
+Kelvedon,353,394239,395248,,,Full,ü,ü,Part,Part
+Folkestone Central,354,392389,399731,1,,Full,ü,,Full,Part
+Tooting,355,392344,405918,,,No,ü,ü,Full,Part
+St Margarets London,356,392005,384116,,,No,ü,ü,Part,Part
+Coulsdon South,357,389092,421141,,,No,ü,ü,Part,Part
+Ashtead,358,386445,390937,,,Full,ü,ü,Part,Part
+Kilwinning,359,386226,393661,,,Full,ü,ü,Full,Full
+Blackburn,360,385552,396009,,,Full,ü,ü,Full,Full
+Ramsgate,361,384957,372436,,,Full,ü,ü,Full,Full
+Taunton,362,384693,383607,,,Full,ü,ü,Full,Full
+Horley,363,384526,389374,,,No,ü,ü,Part,Part
+Hackney Central,364,380880,365279,,,Part,ü,ü,Full,Part
+Braintree,365,378687,384712,,,Full,ü,ü,Part,Part
+Audley End,366,378492,384023,,,Part,ü,ü,Part,Part
+Carshalton,367,378026,365527,,,No,ü,ü,Part,Part
+Inverness,368,376305,345053,,,Full,ü,ü,Full,Full
+Whitton,369,375805,360484,,,No,ü,ü,Part,Part
+Gloucester,370,375351,372804,,,Full,ü,ü,Full,Full
+Kidbrooke,371,375261,360949,,,Full,ü,ü,Part,Part
+Falmer,372,374286,355367,,,No,ü,ü,Part,Part
+Staplehurst,373,373456,372816,,,Part,ü,ü,Part,Part
+Bridgend,374,370784,372279,,,Full,ü,ü,Full,Full
+Ormskirk,375,370245,355770,1,,Full,ü,,Full,Part
+Plumstead,376,370157,364600,1,,No,ü,,Part,Part
+Winchmore Hill,377,370063,361892,,,No,ü,,Part,Part
+Hayes Kent,378,369895,370070,,,Part,ü,ü,Part,Part
+Wellingborough,379,369845,376617,,,Part,ü,ü,Full,Part
+South Croydon,380,368766,376927,,,No,ü,ü,Part,Part
+Telford Central,381,367660,373609,,,Full,ü,ü,Full,Full
+Exmouth,382,365267,370407,,,Full,ü,ü,Part,Part
+Albany Park,383,363100,362038,,,No,ü,ü,Part,Part
+Polegate,384,361937,362072,,,No,ü,ü,Part,Part
+Hyndland,385,357098,357513,2,ü,No,ü,ü,Full,Part
+Weston-super-Mare,386,356797,360030,,,Full,ü,ü,Full,Full
+St Neots,387,355419,360574,,,No,ü,ü,Part,Part
+Thorpe Bay,388,355138,347820,,,Part,ü,ü,Part,Part
+Barnham,389,354293,355348,,,Part,ü,ü,Full,Part
+Ware,390,354202,346031,,,Full,ü,ü,Part,Part
+Selhurst,391,353916,373364,,,No,ü,ü,Part,Part
+East Dulwich,392,353475,342797,,,No,ü,ü,Part,Part
+Pontypridd,393,352901,344242,,,Full,ü,ü,Part,Part
+Esher,394,350051,348946,,,No,ü,ü,Part,Part
+Waltham Cross,395,349109,345608,1,,Part,ü,,Part,Part
+West Dulwich,396,346325,339834,1,,No,ü,,Part,Part
+Falconwood,397,346267,345155,,,No,ü,ü,Part,Part
+Enfield Chase,398,345737,321351,,,No,ü,ü,Part,Part
+Strood,399,344951,348321,,,Part,ü,ü,Full,Part
+Macclesfield,400,344743,339412,1,,Full,ü,,Full,Part
+Herne Bay,401,342408,344759,,,Part,ü,ü,Part,Part
+West Drayton,402,342100,345748,,,No,ü,ü,Full,Part
+Trefforest,403,341321,334286,,,Full,,,Part,Part
+Reigate,404,340768,345412,,,No,ü,ü,Part,Part
+Halifax,405,340398,346158,1,ü,Part,ü,ü,Part,Part
+Rochford,406,340065,347396,,,Part,ü,ü,Part,Part
+Lancing,407,339137,339938,,,No,ü,ü,Part,Part
+Acton Central,408,338547,362315,1,,No,ü,,Full,Part
+Stoneleigh,409,338488,331828,,,No,ü,ü,Part,Part
+Clacton,410,337540,336851,,,Full,ü,ü,Part,Part
+West Wickham,411,337355,335018,,,Part,ü,ü,Part,Part
+Scarborough,412,336986,329802,,,Full,ü,,Part,Part
+Shipley,413,336863,333171,,,Full,ü,ü,Part,Part
+Kidderminster,414,335038,344000,1,ü,Part,ü,ü,Part,Part
+Elmers End,415,334751,331349,,,Part,ü,ü,Part,Part
+Bletchley,416,334640,334403,,,Full,ü,ü,Full,Full
+New Barnet,417,333091,325008,,,No,ü,,Part,Part
+Ladywell,418,331485,326717,1,,Part,,,None,None
+Skipton,419,329716,318429,1,,Full,ü,,Part,Part
+High Brooms,420,327950,327178,,,Insufficient info provided by station operator,ü,ü,None,Part
+Carshalton Beeches,421,327905,316985,,,No,ü,ü,Part,Part
+West Ealing,422,327453,319155,,,No,ü,ü,Full,Part
+Ewell West,423,324562,328014,,,Part,ü,ü,Part,Part
+Caerphilly,424,323837,328777,1,,Full,,ü,Part,Part
+Ilkley,425,322923,306243,,,Full,ü,ü,Part,Part
+Whitstable,426,322901,327433,,,No,ü,ü,Full,Part
+Truro,427,322417,316310,3,ü,No,ü,ü,Full,Part
+Sanderstead,428,321936,312694,,,No,ü,ü,Part,Part
+Southend East,429,319039,312253,,,No,ü,ü,Part,Part
+Newton Abbot,430,318791,318110,,,Full,ü,ü,Full,Full
+Hampton,431,318649,306414,,,Part,ü,ü,Part,Part
+Rochester,432,317892,324525,,,Full,ü,ü,Part,Part
+Stonebridge Park,433,317703,287152,,,No,ü,ü,Part,Part
+Cheam,434,316662,310628,,,No,ü,ü,Part,Part
+Gordon Hill,435,314871,306854,,,No,ü,,Part,Part
+Portsmouth Harbour,436,313892,255968,,,Full,ü,ü,Part,Part
+Brookwood,437,313361,315211,,,Part,ü,ü,Part,Part
+New Beckenham,438,313267,317785,,,Part,ü,ü,Part,Part
+Gospel Oak,439,312806,314944,,,No,ü,ü,Full,Part
+Irvine,440,312485,330782,,,Part,ü,ü,Part,Part
+Bickley,441,310616,307796,1,,No,ü,,Part,Part
+Barnsley,442,310521,302717,1,,Full,ü,,Part,Part
+Lenzie,443,310370,326927,,,Part,ü,ü,Part,Part
+Cosham,444,310148,303717,,,Part,ü,ü,Part,Part
+Woodham Ferrers,445,309459,310709,,,Part,ü,ü,Part,Part
+Chelsfield,446,309284,305315,,,Part,ü,ü,Part,Part
+Littlehampton,447,307004,307191,,,Full,ü,ü,Full,Full
+Enfield Lock,448,306577,310826,,,Full,ü,ü,Part,Part
+Maze Hill,449,305965,312503,,,Part,ü,ü,Part,Part
+Hereford,450,302658,299561,3,ü,Part,ü,ü,Part,Part
+Alexandra Palace,451,300847,291510,,,No,ü,ü,Part,Part
+Motspur Park,452,300379,291649,,,No,ü,ü,Part,Part
+Stoke Newington,453,299961,306618,,,No,ü,ü,Part,Part
+Weymouth,454,298889,288942,,,Full,ü,ü,Full,Full
+Bicester North,455,297520,298806,,,Full,ü,ü,Part,Part
+Kings Lynn,456,296655,297020,,,Full,ü,ü,Full,Full
+Bathgate,457,296562,302539,,,Full,ü,,None,Part
+West Hampstead,458,296521,356285,,,No,ü,ü,Full,Part
+East Kilbride,459,290440,289480,,,Full,ü,ü,Full,Full
+Biggleswade,460,287762,294556,,,No,ü,,Part,Part
+Bush Hill Park,461,287693,270894,,,Full,ü,ü,Part,Part
+Selly Oak,462,286857,295669,,,Full,ü,ü,Full,Full
+Oakleigh Park,463,286559,284668,1,,No,ü,,Part,Part
+Manningtree,464,286285,288348,,,Part,ü,ü,Full,Part
+Tamworth,465,286211,299640,,,Full,ü,ü,Full,Full
+Portslade,466,285188,280863,,,No,ü,ü,Part,Part
+Strawberry Hill,467,284365,272789,,,Full,ü,ü,Part,Part
+Caterham,468,284352,284001,,,Part,ü,ü,Part,Part
+West Malling,469,283751,286823,,,Part,ü,ü,Part,Part
+Cricklewood,470,283735,267563,,,Part,ü,ü,Part,Part
+Henley On Thames,471,283106,283160,,,Full,ü,ü,Part,Part
+Margate,472,282683,280773,,,Full,ü,ü,Part,Part
+Westcombe Park,473,282258,269653,1,,Part,,ü,Part,Part
+Hackbridge,474,281243,281288,,,Insufficient info provided by station operator,ü,ü,Insufficient info provided by station operator,Part
+Dewsbury,475,281168,284354,,,Full,ü,ü,Part,Part
+Conway Park,476,280610,221819,,,Full,ü,ü,Full,Full
+St James St Wlthmstw,477,277579,301055,,,No,ü,ü,Part,Part
+Ingatestone,478,276374,277861,,,Part,ü,ü,Part,Part
+Kent House,479,275471,268607,,,No,ü,ü,Part,Part
+London Waterloo East,480,274820,164806,,,Part,ü,ü,Full,Part
+Nuneaton,481,272144,276504,,,Full,ü,ü,Full,Full
+Newark Castle,482,271940,293638,,,Full,ü,ü,None,Part
+Beverley,483,271626,277529,1,ü,Part,ü,ü,Part,Part
+Perth,484,271389,279504,,,Full,ü,ü,Full,Full
+Moorfields,485,271144,68389,2,ü,Part,ü,ü,Full,Part
+Lichfield City,486,270242,258792,,,Full,ü,ü,Full,Full
+Tilbury Town,487,270122,257644,,,Full,ü,ü,Part,Part
+Ashford Middx,488,269950,264979,,,Part,ü,ü,Part,Part
+Headcorn,489,269718,270724,,,Part,ü,ü,Part,Part
+Dumbarton Central,490,267851,283568,,,Full,ü,ü,Full,Full
+Walsall,491,266133,266152,3,ü,Part,ü,ü,Full,Part
+North Dulwich,492,265442,255297,,,No,ü,ü,Part,Part
+Cuffley,493,265413,263038,1,,No,ü,,Part,Part
+Chorley,494,262961,266159,,,Full,ü,ü,Full,Full
+Livingston North,495,262916,279839,,,Full,ü,,None,Part
+Harlesden,496,262193,239809,,,No,ü,ü,Part,Part
+Wilmslow,497,261896,259949,,,Full,ü,ü,Full,Full
+Farncombe,498,260628,256424,,,Part,ü,ü,Part,Part
+Hendon,499,260446,265859,,,Part,ü,ü,Part,Part
+Greenhithe,500,260361,265688,1,,No,,,Part,None
+Stalybridge,501,259790,263492,,,Full,ü,,Full,Part
+Anniesland,502,259502,266214,,,Part,ü,ü,Full,Part
+Upper Warlingham,503,258627,257982,,,No,ü,ü,Part,Part
+Bangor,504,258367,254614,2,ü,Full,ü,,Part,Part
+Queens Road Peckham,505,257657,239175,,,No,ü,ü,Part,Part
+Redditch,506,257447,245661,,,Full,ü,ü,Full,Full
+Manchester Victoria,507,256910,138119,,,Full,ü,ü,Full,Full
+Market Harborough,508,256565,262464,,,Part,ü,ü,Full,Part
+Mount Florida,509,255310,281726,,,Part,ü,ü,Part,Part
+Sheerness-on-Sea,510,255163,247111,,,No,ü,ü,Part,Part
+Rochdale,511,253531,259525,,,Full,ü,ü,Full,Full
+Salford Crescent,512,253463,235161,3,ü,No,ü,ü,Full,Part
+Croy,513,253018,262690,,,Full,ü,ü,Part,Part
+Blairhill,514,252578,255960,,,No,ü,ü,Full,Part
+Solihull,515,250660,254285,,,Full,ü,ü,Full,Full
+Seaford,516,248631,244616,,,Part,ü,ü,Part,Part
+Watford High Street,517,247757,252565,2,,No,ü,,Part,Part
+Shettleston,518,246934,248520,,,No,ü,ü,Part,Part
+Singer,519,246862,236538,,,Full,ü,,Full,Part
+Milngavie,520,245718,249091,,,Full,ü,ü,Full,Full
+St Leonards Warr Sq,521,245169,234603,,,Part,ü,ü,Part,Part
+Stratford upon Avon,522,245007,234336,,,Full,ü,ü,Full,Full
+Hampden Park Sussex,523,244341,246056,,,Full,ü,ü,Part,Part
+Langley,524,242933,250109,,,Part,ü,ü,Full,Part
+Sunningdale,525,242356,241956,,,Full,ü,ü,Part,Part
+Bushey,526,241434,253021,2,,No,ü,,Part,Part
+Manchester Oxford Road,527,240276,158277,,,Part,ü,ü,Full,Part
+Martins Heron,528,240066,239133,,,Part,ü,ü,Part,Part
+Bromley North,529,238552,242698,2,,Part,ü,,Part,Part
+Hampstead Heath,530,238459,248645,,,No,ü,ü,Full,Part
+Barrow In Furness,531,237586,232037,2,ü,Full,ü,,Full,Part
+Neath,532,237480,239820,2,ü,No,ü,ü,Full,Part
+Bingley,533,235005,244366,2,,No,ü,,None,Part
+Balloch,534,233736,229614,,,Full,ü,ü,Full,Full
+Hamilton Central,535,233543,248482,,,Full,ü,ü,Full,Full
+Barry,536,233350,230908,2,,No,,,Part,None
+New Milton,537,233028,236256,,,Part,ü,ü,Part,Part
+Battle,538,232913,233368,,,Part,ü,ü,Part,Part
+Merstham,539,232779,234756,,,No,ü,ü,Part,Part
+Durrington-on-Sea,540,232495,230066,,,No,ü,ü,Part,Part
+Erith,541,231602,225679,,,Part,ü,ü,Part,Part
+Bradford Forster Sq,542,231142,96540,,,Full,ü,ü,Part,Part
+Belvedere,543,230876,227140,,,Part,ü,ü,Part,Part
+Guiseley,544,230753,222369,,,Full,ü,ü,None,Part
+Dunfermline Town,545,229894,238280,1,ü,Part,ü,ü,Part,Part
+Bellingham,546,229608,222418,,,No,ü,ü,Part,Part
+Warrington Central,547,229455,181618,,,No,ü,,Full,Part
+Rhyl,548,229357,231222,,,Full,ü,ü,Part,Part
+Sunderland,549,228864,235575,,,Full,ü,ü,Full,Full
+Trowbridge,550,228783,232925,,,Full,ü,ü,Part,Part
+Westerton,551,228298,232937,,,Full,ü,ü,Full,Full
+Dalmuir,552,227357,231322,,,Part,ü,,Full,Part
+Skegness,554,226725,224254,,,Full,ü,ü,Full,Full
+Hersham,555,225577,222213,,,No,ü,ü,Part,Part
+Shoeburyness,556,224244,227692,2,,Full,ü,,Part,Part
+Troon,557,223603,243914,,,Full,ü,ü,Part,Part
+Sutton Coldfield,558,222819,231413,1,ü,Part,ü,ü,Full,Part
+Loughborough Jn,559,222200,202186,,,No,ü,ü,Full,Part
+Elephant & Castle,560,222199,220427,,,No,ü,ü,Full,Part
+Broadstairs,561,221647,221573,2,,Full,ü,,Part,Part
+Longfield,562,221175,224114,,,No,ü,ü,Part,Part
+Cobham & Stoke d'Abernon,563,220699,225571,,,Part,ü,ü,Part,Part
+Angmering,564,219790,224310,,,Full,ü,ü,Part,Part
+Princes Risborough,565,218860,218099,,,Full,ü,,Part,Part
+Polmont,566,218326,234028,,,Full,ü,ü,Full,Full
+Ockendon,567,217789,214049,2,,Part,ü,,Part,Part
+Hook,568,217468,221660,,,Part,ü,ü,Part,Part
+Uddingston,569,217073,229300,,,Full,ü,ü,Part,Part
+Long Eaton,570,214511,214878,1,ü,Part,ü,,Part,Part
+Claygate,571,214481,213660,,,Part,ü,ü,Part,Part
+Worcester Foregate St,572,214233,165501,,,Full,ü,ü,Full,Full
+Burton On Trent,573,214100,218472,3,ü,Part,ü,ü,Full,Part
+Ryde Esplanade,574,213060,218576,1,,Part,,ü,Part,Part
+Wood Street,575,212405,208088,,,No,ü,ü,Part,Part
+Nunhead,576,211991,205964,,,No,ü,ü,None,Part
+Barry Island,577,211204,217999,1,ü,Full,,,None,Part
+Argyle Street,578,211149,152037,,,No,ü,ü,Full,Part
+North Wembley,579,209258,201166,2,,No,ü,,Full,Part
+Wigan Wallgate,580,209208,171837,,,Full,ü,ü,Full,Full
+Hatfield Peverel,581,209028,210116,2,,Part,ü,,Part,Part
+Tring,582,208748,213203,2,,No,ü,,Part,Part
+Bellshill,583,208682,218905,,,Full,ü,,Full,Part
+Liphook,584,207520,208239,,,Part,ü,ü,Part,Part
+Bishopton,585,206927,217667,,,Part,ü,ü,Full,Part
+Wivelsfield,586,206562,206271,,,No,ü,ü,Part,Part
+Hildenborough,587,206137,208345,,,Part,ü,ü,Part,Part
+Hurst Green,588,206119,203848,,,Full,ü,ü,Part,Part
+Hornsey,589,206001,185654,2,,No,ü,,Part,Part
+Great Missenden,590,205993,196518,,,Full,ü,,Full,Part
+Neilston,591,205940,205156,,,Full,ü,ü,Full,Full
+Harringay,592,205696,182098,2,,No,ü,,Part,Part
+Penarth,593,205478,207428,1,ü,Full,,,Part,Part
+Deptford,594,204718,216712,2,,No,,,Part,None
+Hounslow,595,204515,201257,,,Part,ü,ü,Part,Part
+Brondesbury,596,204035,224528,,,No,ü,ü,Full,Part
+Crofton Park,597,202772,188880,,,Part,ü,ü,Part,Part
+Waterloo Mersey,598,202537,230748,3,ü,Part,ü,ü,Full,Unknown
+Hampton Wick,599,202418,198396,,,No,ü,ü,Part,Part
+Purley Oaks,600,201473,194652,,,No,ü,ü,Part,Part
+Thatcham,601,201228,205061,,,Part,ü,ü,Part,Part
+Alton,602,200580,200364,,,Part,ü,ü,Part,Part
+Cambuslang,603,199697,219561,,,Full,ü,,Full,Part
+Barrhead,604,199539,214239,,,Part,ü,,Full,Part
+Penzance,605,199282,192726,,,Full,ü,ü,Full,Full
+Horsforth,606,199058,200312,2,ü,Full,,,None,Part
+Theale,607,198297,204414,,,No,ü,ü,Part,Part
+Filton Abbey Wood,608,197821,197487,,,Full,ü,ü,Part,Part
+Canterbury East,609,197569,149587,,,Part,ü,ü,Full,Part
+West Worthing,610,197304,197836,,,No,ü,ü,Part,Part
+Lingfield,611,196914,198454,2,,No,ü,,Part,Part
+Largs,612,196803,188135,,,Full,ü,ü,Full,Full
+Kilmarnock,613,196366,201595,2,ü,Part,ü,ü,Full,Part
+Maghull,614,195187,199004,1,ü,Part,ü,ü,Full,Part
+Deal,615,195114,197570,2,,Full,,,Part,Part
+Great Malvern,616,194953,199458,,,Full,ü,ü,Part,Part
+Wadhurst,617,193057,195428,,,Part,ü,ü,Part,Part
+Tilehurst,618,192852,194570,,,Part,ü,ü,Part,Part
+Wendover,619,191696,190740,,,Part,ü,,Full,Part
+Glossop,620,191396,190522,1,,Full,,ü,Full,Part
+Lower Sydenham,621,190947,191011,,,No,ü,ü,None,Part
+Borough Green & Wrth,622,190438,192553,,,Full,ü,ü,Part,Part
+Hamilton West,623,189615,185859,,,Full,ü,,Full,Part
+Haddenham,624,189540,190430,,,Full,ü,ü,Part,Part
+Grimsby Town,625,189159,191715,,,Full,ü,ü,Part,Part
+Acton Main Line,626,186942,171266,,,No,ü,ü,Part,Part
+Birkenhead Park,627,186936,285399,,,Part,ü,ü,Full,Part
+Sawbridgeworth,628,186247,187898,,,Full,ü,ü,Part,Part
+Exhibition Centre,629,185838,185908,,,No,ü,,Full,Part
+South Bermondsey,630,185064,208444,,,No,ü,ü,Part,Part
+Wrexham General,631,184265,180002,3,ü,Part,ü,ü,Part,Part
+Coatbridge Sunnyside,632,184255,186142,,,Full,ü,,Full,Part
+Beeston,633,184012,180829,,,Part,ü,ü,Full,Part
+Sunbury,634,183571,183729,,,Part,ü,ü,Part,Part
+Welwyn North,635,182893,185896,2,,Part,ü,,Part,Part
+Ewell East,636,182506,193562,,,No,ü,ü,Part,Part
+Marks Tey,637,182502,182477,,,Part,ü,ü,Full,Part
+Falkirk High,638,182471,168510,,,Full,ü,ü,Full,Full
+Stowmarket,639,182399,184932,,,Part,ü,ü,Full,Part
+Dunblane,640,182059,181109,,,Part,ü,,Part,Part
+Greenock West,641,181428,180446,,,No,ü,ü,Full,Part
+St Helens Central,642,180961,185637,,,Full,ü,ü,Full,Full
+Carpenders Park,643,180780,171303,2,,Full,ü,,Part,Part
+Bethnal Green,644,180504,204984,2,,No,ü,,None,Part
+Thames Ditton,645,179634,177249,,,Full,ü,ü,Part,Part
+Orrell Park,646,179346,189691,,,Part,ü,ü,Full,Part
+Dorchester South,647,179167,180625,,,Part,ü,ü,Part,Part
+North Camp,648,179141,177768,,,Full,ü,ü,Part,Part
+Kenton,649,178909,183228,2,,No,ü,,Part,Part
+Oxshott,650,178104,176805,,,Part,ü,ü,Part,Part
+Goring & Streatley,651,177366,178039,,,Part,ü,ü,Part,Part
+Essex Road,652,176339,180086,,,No,ü,ü,Part,Part
+Bridlington,653,176284,177522,3,ü,Part,,,Part,None
+Newark North Gate,654,176120,159006,,,Part,ü,ü,Full,Part
+Brimsdown,655,175838,172509,,,Full,ü,ü,Part,Part
+Otford,656,175737,176834,,,Part,ü,ü,Part,Part
+Ash Vale,657,175578,175309,,,No,ü,ü,Part,Part
+Garforth,658,175235,173221,2,,No,ü,,Part,Part
+Stansted Mountfitchet,659,175230,185894,,,Part,ü,ü,Part,Part
+Gourock,660,173776,169892,,,Full,ü,ü,Full,Full
+Kirkby Merseyside,661,173160,176938,,,Part,ü,ü,Full,Part
+Stourbridge Junction,662,173080,167881,2,ü,Full,ü,,Full,Part
+Sydenham Hill,663,172837,166925,,,Part,ü,ü,None,Part
+Clarkston,664,172186,191000,,,Part,ü,ü,Part,Part
+Eden Park,665,171104,173033,,,Part,ü,ü,Part,Part
+Pangbourne,666,170798,173258,,,Part,ü,ü,Part,Part
+Hooton,667,170776,175682,,,No,ü,ü,Full,Part
+Billingshurst,668,170772,171250,,,No,ü,ü,Part,Part
+Metro Centre Gateshd,669,170462,172564,3,ü,Part,ü,,None,Part
+Sandy,670,170420,173707,3,,Part,ü,,Part,Part
+Larbert,671,170033,174264,,,Full,ü,,Full,Part
+Runcorn,672,170032,165109,,,Full,ü,ü,Full,Full
+Kings Langley,673,170026,173292,3,,Part,ü,,Part,Part
+Earley,674,169494,160513,,,Part,ü,ü,Part,Part
+Bishopbriggs,675,169270,184352,,,Part,ü,ü,Full,Part
+Paignton,676,168809,167512,,,Full,ü,ü,Part,Part
+Finchley Rd & Frognl,677,168756,186497,,,No,ü,ü,Part,Part
+Swanwick,678,168732,171543,,,Part,ü,ü,Part,Part
+Virginia Water,679,168605,167176,,,Part,ü,ü,Part,Part
+Aberdare,680,168561,162445,1,,Full,,,Part,Part
+Birkenhead Central,681,168197,144424,,,Full,ü,ü,Full,Full
+Selby,682,167014,167250,3,,Full,ü,,Part,Part
+North Berwick,683,166667,166777,,,Full,ü,,None,Part
+Goring By Sea,684,166660,166589,,,No,ü,ü,Part,Part
+Worksop,685,166660,165259,3,,Full,ü,,Part,Part
+Lowestoft,686,166597,164473,,,Full,ü,ü,Full,Full
+Shanklin,687,166484,163403,3,,Full,,,Part,Part
+Cheadle Hulme,688,166396,169760,1,ü,No,,ü,Full,Part
+Berwick upon Tweed,689,165773,165335,,,Full,ü,ü,Full,Full
+South Gyle,690,165699,200086,,,Full,ü,,None,Part
+Port Glasgow,691,165394,171384,,,Full,ü,ü,Full,Full
+Blackwater,692,165231,168037,,,Full,ü,ü,None,Part
+Five Ways,693,164847,174639,,,Full,ü,ü,Full,Full
+Winnersh,694,164777,163482,,,Full,ü,ü,Part,Part
+Steeton & Silsden,695,164465,162315,3,,No,ü,,None,Part
+Mansfield,696,163901,172091,1,,Full,,ü,Part,Part
+Kenley,697,163548,159172,3,,No,ü,,Part,Part
+Bebington,698,162910,180308,,,Full,ü,ü,Full,Full
+Harlington Beds,699,162577,160378,,,Part,ü,ü,Part,Part
+Crosshill,700,162394,170332,,,No,ü,ü,Part,Part
+Baldock,701,162243,169489,3,,No,ü,,Part,Part
+Great Yarmouth,702,162132,161351,,,Full,ü,ü,Full,Full
+Queenstown Rd Battrs,703,161949,169685,,,No,ü,ü,None,Part
+London Road Brighton,704,161410,152380,,,No,ü,ü,Part,Part
+Gillingham Dorset,705,161406,164575,2,ü,Part,ü,ü,Part,Part
+Camberley,706,160828,164337,,,Part,ü,ü,Part,Part
+Knebworth,707,160659,167352,3,,No,ü,,Part,Part
+White Hart Lane,708,160161,167027,,,No,ü,ü,Part,Part
+Kings Norton,709,159818,160550,,,Insufficient info provided by station operator,ü,ü,Full,Full
+Clydebank,710,159765,173086,,,Full,ü,,Part,Part
+Kensal Rise,711,159102,174201,3,,No,ü,,Part,Part
+Saltaire,712,158852,165260,3,,Full,ü,,None,Part
+Pulborough,713,158706,161551,,,No,ü,ü,Part,Part
+Diss,714,158079,170527,,,Part,ü,ü,Full,Part
+Dalreoch,715,157664,158482,,,Part,ü,ü,Full,Part
+St Johns,716,157569,158455,,,No,ü,ü,Part,Part
+Waddon,717,157174,156681,,,No,ü,ü,Part,Part
+Christchurch,718,156884,157231,,,Part,ü,ü,Part,Part
+Totnes,719,156810,159404,,,Part,ü,ü,Part,Part
+Hazel Grove,720,156659,153152,1,ü,Part,ü,ü,Part,Part
+Liverpool James St,721,155870,44215,,,Full,ü,ü,Full,Full
+Birchwood,722,155252,151872,3,,No,,,Full,Part
+Kew Bridge,723,155012,168979,,,No,ü,ü,None,Part
+Bootle New Strand,724,155003,190448,,,Part,ü,ü,Full,Part
+Birmingham Snow Hill,725,154952,70133,,,Full,ü,ü,Full,Full
+Rotherham Central,726,154317,160829,3,,Full,,,Part,Part
+Shepperton,727,153738,151778,,,Full,ü,ü,Part,Part
+East Tilbury,728,153368,146887,,,Full,ü,ü,Part,Part
+Huyton,729,152064,153271,,,Full,ü,ü,Full,Full
+Hertford East,730,151767,123391,,,Full,ü,ü,Part,Part
+Hebden Bridge,731,151646,151672,3,,No,ü,,Part,Part
+Romsey,732,151261,153793,,,Full,ü,ü,Part,Part
+Sleaford,733,150926,150080,,,Full,ü,ü,Part,Part
+Hatch End,734,150894,159514,3,,Part,ü,,Part,Part
+Rock Ferry,735,150431,131016,3,,Part,ü,,Full,Part
+Warwick,736,150327,157213,3,,Part,ü,,Part,Part
+Rutherglen,737,150266,157898,,,No,ü,ü,Full,Part
+Kirkdale,738,149808,149588,,,Full,ü,ü,Full,Full
+Wellington,739,149772,149926,3,ü,Full,,,Part,Part
+Brixton,740,149580,170470,,,Part,ü,ü,Part,Part
+New Southgate,741,149182,142356,3,,No,ü,,Part,Part
+Cathcart,742,148701,161489,,,No,ü,,Part,Part
+Cathays,743,148341,149670,1,,Full,,ü,None,Part
+Bournville,744,148324,146907,3,,Part,ü,,Full,Part
+Dumfries,745,147649,147406,,,Full,ü,ü,Full,Full
+Bearsted,746,147249,147638,1,,No,,ü,Part,Part
+Blundellsands & Crosby,747,147189,149496,3,,Part,ü,,Full,Part
+Homerton,748,147031,129829,,,Full,ü,ü,Full,Full
+Wivenhoe,749,146987,146594,,,No,ü,ü,None,Part
+Saltcoats,750,146882,157268,,,Full,ü,ü,Part,Part
+Hexham,751,145230,160961,2,ü,Part,ü,ü,Part,Part
+Rectory Road,752,145111,141431,,,No,ü,ü,Part,Part
+London Road Guildford,753,144976,147305,,,Part,ü,ü,Part,Part
+St Margarets Herts,754,144808,149955,,,Full,ü,ü,Part,Part
+Northallerton,755,144796,148341,3,,Full,,,Part,Part
+Muirend,756,144543,157927,,,Full,ü,ü,Part,Part
+Aintree,757,144515,139999,,,Full,ü,ü,Full,Full
+Chessington North,758,144017,137432,,,No,ü,ü,Part,Part
+Chiswick,759,143447,146088,,,Part,ü,ü,Part,Part
+West Horndon,760,143012,143606,,,Part,ü,ü,Part,Part
+Burnham on Crouch,761,142860,144887,,,Full,ü,ü,Part,Part
+Carmarthen,762,142844,140583,,,Full,ü,ü,Full,Full
+Formby,763,142375,137447,,,Part,ü,ü,Full,Part
+Stonehaven,764,142249,159839,,,Full,ü,ü,Full,Full
+Torquay,765,141767,142799,2,ü,No,ü,ü,Part,Part
+Queens Park Glasgow,766,141637,159681,,,No,ü,,Full,Part
+Teignmouth,767,141503,144968,,,Full,ü,ü,Part,Part
+Arbroath,768,141452,142940,,,Part,ü,ü,Part,Part
+Patterton,769,141339,145072,,,Full,ü,,None,Part
+Marlow,770,141174,138343,3,,Full,ü,,None,Part
+Droitwich Spa,771,141003,149822,1,ü,Full,,ü,Part,Part
+Leuchars,772,140960,145666,,,Full,ü,,Full,Part
+New Brighton,773,140781,136693,3,,Full,ü,,Full,Part
+Turkey Street,774,140099,136282,,,No,ü,ü,Part,Part
+Hunts Cross,775,139622,138339,,,No,ü,ü,Full,Part
+Hackney Wick,776,139348,148514,,,Part,ü,ü,Part,Part
+West Kirby,777,138545,125602,,,Full,ü,ü,Full,Full
+Sandwich,778,138289,139174,,,Part,ü,,Part,Part
+Chertsey,779,138109,141552,,,Full,ü,ü,Part,Full
+Horsley,780,137968,140154,,,Part,ü,ü,Part,Part
+Sundridge Park,781,137719,134132,,,Part,ü,,Part,Part
+Warminster,782,137580,141610,1,,No,,,Part,None
+Llanelli,783,137252,141053,,,Full,ü,ü,Part,Part
+New Pudsey,784,136651,137676,,,Full,ü,,Part,Part
+Theobalds Grove,785,136122,132518,,,No,ü,ü,Part,Part
+Greenock Central,786,136058,134113,,,Full,ü,,Full,Part
+Garrowhill,787,135933,138127,,,Full,ü,,Full,Part
+Kentish Town,788,135548,171781,2,,No,,ü,Full,Part
+Redcar Central,789,135501,139096,,,Full,ü,,Part,Part
+Montrose,790,135269,139189,,,Part,ü,,Part,Part
+Merthyr Tydfil,791,135161,130619,2,,Full,,,Part,Part
+Alexandria,792,134533,136371,,,Part,ü,ü,Full,Part
+Oxenholme Lake District,793,134460,134983,3,ü,Part,ü,ü,Full,Part
+Stoke Mandeville,794,133957,133350,,,Part,ü,,Full,Part
+Hanwell,795,133713,130169,,,No,ü,ü,Full,Part
+Westbury,796,133571,136728,,,No,ü,,Part,Unknown
+Brentford,797,133380,152233,,,Full,ü,ü,Part,Part
+Purfleet,798,132856,130286,,,Full,ü,ü,Part,Part
+St Austell,799,132408,134268,,,Full,ü,ü,Part,Part
+Dalmeny,800,132213,140499,,,Full,ü,,Part,Part
+Cadoxton,801,131987,138298,2,,No,,,None,None
+Dawlish,802,131574,133462,,,Full,ü,,Part,Part
+Silver Street,803,131325,126230,,,No,ü,ü,Part,Part
+Meopham,804,131306,133454,,,Part,ü,ü,Part,Part
+Anerley,805,131238,130045,2,,No,,,Part,None
+Port Talbot Parkway,806,131140,133215,2,,No,,ü,Part,Part
+Heaton Chapel,807,131135,132982,,,Full,ü,,Part,Part
+Abergavenny,808,130988,134143,,,No,ü,ü,Part,Part
+Maryland,809,130812,134462,,,No,ü,ü,Part,Part
+Whyteleafe,810,130529,127695,,,No,ü,,Part,Part
+Rye House,811,130065,134517,,,Part,ü,ü,Part,Part
+Byfleet & New Haw,812,129731,132410,,,No,ü,ü,Part,Part
+Llandaf,813,129389,132915,2,,No,,,None,None
+Southbury,814,129121,126846,,,No,ü,ü,Part,Part
+Bromborough,815,128360,130946,,,Part,ü,ü,Full,Part
+Menston,816,127624,125340,,,No,ü,,Part,Part
+Marple,817,127555,125921,,,Part,ü,,Part,Part
+East Worthing,818,127184,134474,2,,No,,,None,None
+Hinchley Wood,819,127120,124450,,,No,ü,ü,Part,Part
+Bearsden,820,126664,129588,,,Part,ü,,Part,Part
+Sellafield,821,126203,122990,2,,No,,,None,None
+Retford,822,125877,126236,,,Insufficient info provided by station operator,ü,,Full,Part
+London Fields,823,125365,140520,,,No,ü,,None,Part
+Malden Manor,824,124635,121954,,,No,ü,ü,Part,Part
+Arlesey,825,124585,132297,,,Part,ü,,Part,Part
+Shaw & Crompton,826,124439,124731,,,Full,,,Part,Part
+Slade Green,827,124199,130264,2,,No,,ü,Part,Part
+Northfield,828,124084,118426,,,Part,ü,,Full,Part
+Preston Park,829,124042,124203,,,No,ü,ü,Part,Part
+Poulton Le Fylde,830,123616,122264,,,Full,ü,,Part,Part
+Radyr,831,123478,123103,2,,No,,ü,Part,Part
+Todmorden,832,123360,127166,,,Part,ü,,Part,Part
+Apsley,833,123064,124457,,,Part,ü,,Part,Part
+Downham Market,834,122785,125583,,,Full,ü,ü,Part,Part
+Brough,835,122693,125815,,,Full,ü,,Part,Part
+Ashton-Under-Lyne,836,122545,122883,3,,Full,,,Part,Part
+Longbridge,837,121858,118473,,,Full,ü,,Full,Part
+Hartlepool,838,121576,124127,,,Full,ü,,Part,Part
+Wareham Dorset,839,121388,122172,,,Part,ü,ü,Part,Part
+Canonbury,840,121230,122138,,,No,ü,ü,Part,Part
+Whittlesford,841,120892,120954,,,Part,ü,ü,Part,Part
+Dorridge,842,120847,121020,,,Part,ü,ü,Full,Part
+Bourne End,843,120696,122484,,,Full,ü,ü,Part,Part
+Burnside Strathclyde,844,120526,129189,,,No,ü,ü,Part,Part
+Sandown,845,120398,124478,3,,Part,,,None,None
+Warwick Parkway,846,119676,118736,,,Full,ü,ü,Full,Full
+Fulwell,847,119388,115429,,,No,ü,ü,Part,Part
+Marden,848,119249,121439,3,,No,,,Part,None
+Oldham Mumps,849,118977,120152,,,Full,,,Part,Part
+Porth,850,118780,119944,3,,Part,,ü,Part,Part
+Effingham Junction,851,118753,118271,,,No,ü,ü,Part,Part
+Emsworth,852,118557,122950,,,No,ü,ü,Part,Part
+Winchfield,853,118489,119806,,,Part,ü,ü,Part,Part
+Llandudno,854,118194,117320,3,,Full,,ü,Part,Part
+Evesham,855,118111,122063,,,Part,ü,ü,Full,Part
+Penge West,856,118033,145721,,,No,ü,,Part,Part
+Prestatyn,857,117562,118268,,,No,ü,,Part,Part
+Williamwood,858,116894,121494,,,No,ü,,Part,Part
+Ystrad Mynach,859,116771,117448,3,,Full,,,Part,Part
+Dumbarton East,860,116460,123051,,,No,ü,ü,None,Part
+Woolwich Dockyard,861,116409,125336,3,,Part,,,Part,None
+Taffs Well,862,116223,119549,3,,Full,,,None,Part
+Wallasey Grove Road,863,116181,129353,,,Part,ü,,Full,Part
+Bramley Hants,864,115967,119192,,,Full,ü,ü,Part,Part
+Stourbridge Town,865,115501,119901,3,,Full,,,Full,Part
+Dyce,866,115387,123562,,,Part,ü,ü,None,Part
+Newport Essex,867,115366,116586,,,Full,ü,ü,Part,Part
+Hucknall,868,115312,102470,3,,No,,,None,None
+Honiton,869,114964,118790,,,Part,ü,ü,Part,Part
+Leasowe,870,114735,114387,,,Full,ü,,Full,Part
+Scunthorpe,871,114458,116257,,,Full,,,Part,Part
+Charlbury,872,113935,115065,,,Full,ü,ü,Part,Part
+Hedge End,873,113909,115548,,,Part,ü,ü,Part,Part
+Llandudno Junction,874,113904,112575,,,Full,ü,ü,Part,Part
+Brunswick,875,113593,110883,,,Full,ü,,Full,Part
+Crowthorne,876,112855,115913,,,Full,ü,ü,Part,Part
+Colwyn Bay,877,112636,112304,,,Full,ü,ü,Part,Part
+Portchester,878,111875,116221,,,No,ü,ü,Part,Part
+Aberystwyth,879,111482,107016,,,Full,ü,ü,Part,Part
+Robertsbridge,880,111424,113482,,,Part,ü,,Part,Part
+Penrith,881,111386,113559,,,Part,ü,,Full,Part
+Buxton,882,111300,108947,,,Full,ü,,Part,Part
+March,883,111273,112556,,,Part,ü,,Part,Part
+Treherbert,884,111214,109111,3,,Full,,,None,Part
+Lanark,885,110608,108386,,,Full,ü,,Full,Part
+Erdington,886,110030,113040,2,ü,Part,ü,ü,Full,Part
+Woodmansterne,887,109989,108085,,,No,ü,,Part,Part
+Denham,888,109774,108723,,,Insufficient info provided by station operator,ü,,Part,Part
+Bowes Park,889,109759,108426,,,No,ü,,Part,Part
+Arundel,890,109643,111017,,,Part,ü,ü,Part,Part
+Yatton,891,109587,110621,,,Full,ü,ü,Part,Part
+Bradford On Avon,892,109543,111015,,,No,ü,ü,Part,Part
+Datchet,893,109348,112640,,,Part,ü,ü,Part,Part
+Whitecraigs,894,109262,116132,,,Full,ü,,Part,Part
+Windermere,895,109244,106175,,,Full,ü,ü,Full,Full
+Stamford,896,109136,115178,,,Part,ü,,Part,Part
+Stroud,897,109094,112902,,,Full,ü,ü,Part,Part
+Dunbar,898,109023,115529,,,Full,ü,ü,Full,Full
+Haydons Road,899,108998,113107,,,Part,ü,,None,Part
+St Ives,900,108887,104510,,,Full,ü,,Part,Part
+Sudbury Suffolk,901,108645,108592,,,Part,ü,ü,None,Part
+Newton le Willows,902,108406,109035,,,Full,ü,,None,Part
+Chessington South,903,108267,109736,,,Part,ü,ü,Part,Part
+Giffnock,904,108250,123366,,,Full,ü,ü,Part,Part
+Riddlesdown,905,107843,109726,,,No,ü,,Part,Part
+Swinton,906,107669,108641,3,,Full,,,None,Part
+Crossmyloof,907,107516,124129,,,No,ü,ü,None,Part
+Hairmyres,908,107392,110871,,,Full,ü,,None,Part
+Fazakerley,909,107149,107870,,,No,ü,,Full,Part
+Liss,910,107059,108664,,,Part,ü,ü,Part,Part
+Newhaven Town,911,106892,109244,,,No,ü,,None,Part
+Leyland,912,106760,108411,,,Part,,,Part,None
+Cholsey,913,106666,107715,,,No,ü,ü,Part,Part
+Kingswood,914,106458,107458,,,Full,ü,,Part,Part
+Ainsdale,915,106431,103886,,,Part,ü,,Full,Part
+Drumchapel,916,106365,107279,,,Full,ü,,Full,Part
+Sandwell & Dudley,917,106278,105265,,,Part,ü,,Full,Part
+Prestwick,918,106232,112985,,,Full,ü,ü,Part,Part
+Thornaby,919,105833,109393,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Burley in Wharfedale,920,105687,117106,,,No,ü,,None,Part
+Southwick,921,105529,106357,,,No,ü,ü,Part,Part
+High Street Glasgow,922,105444,102386,,,No,ü,ü,Full,Part
+Burley Park,923,105204,111002,,,No,,,None,None
+South Elmsall,924,104451,105388,,,Full,ü,,None,Part
+Ifield,925,104427,103465,,,No,ü,ü,Part,Part
+Boston,926,104410,105007,,,Full,,ü,Part,Part
+Cottingham,927,104262,109508,,,No,ü,,None,Part
+Birchington on Sea,928,104098,104151,,,Part,ü,ü,Part,Part
+Liskeard,929,103865,106010,,,Full,ü,ü,Part,Part
+Goole,930,103735,104264,,,Full,ü,,Part,Part
+Walmer,931,103601,104123,,,Part,,,Part,None
+Uphall,932,103494,111361,,,Full,ü,,None,Part
+Kilburn High Road,933,103173,106264,,,No,ü,,Part,Part
+Ellesmere Port,934,102960,106808,,,Part,,,Part,None
+Edenbridge,935,102911,113602,,,Part,,,None,Unknown
+Winnersh Triangle,936,102846,103580,,,No,ü,ü,Part,Part
+Knaresborough,937,102428,109127,,,No,,,None,None
+Nailsea & Backwell,938,102342,101161,,,No,,ü,Part,Part
+Blantyre,939,102301,104873,,,Full,ü,ü,Full,Full
+Hinckley,940,102262,107414,,,Full,ü,,Part,Part
+North Sheen,941,102228,116797,,,No,ü,ü,Part,Part
+Millom,942,102162,103789,,,No,ü,,None,Part
+Elsenham,943,101503,103402,,,Part,ü,ü,Part,Part
+Melton Mowbray,944,101394,102770,,,Part,ü,,Part,Part
+Grange Park,945,101387,96787,,,Full,ü,,Part,Part
+Rye,946,101279,104071,,,No,ü,,Part,Part
+Tolworth,947,100906,100398,,,No,ü,ü,Part,Part
+Thorne North,948,100710,102756,,,Full,ü,,Part,Part
+Bury St Edmunds,949,100535,103461,,,Full,ü,ü,Full,Full
+Heald Green,950,100005,97114,,,Full,ü,,Part,Part
+Earlswood Surrey,951,99951,100325,,,No,ü,ü,Part,Part
+Etchingham,952,99876,100998,,,Part,ü,,Part,Part
+Wallasey Village,953,99734,85790,,,No,ü,,Full,Part
+Ash,954,99523,101143,,,Part,ü,ü,Part,Part
+Malton,955,99281,103122,,,Full,ü,,Part,Part
+Glengarnock,956,99113,109972,,,Full,ü,,Part,Part
+Castleford,957,99035,99993,,,Full,ü,,None,Part
+Caledonian Rd & Bnsb,958,98997,118404,,,Part,ü,ü,Part,Part
+Easterhouse,959,98783,99926,,,Part,ü,ü,Full,Part
+St Michaels,960,98366,97042,,,No,ü,,Full,Part
+Southbourne,961,98032,100971,,,No,ü,,Part,Part
+Spital,962,97721,100042,,,No,ü,ü,Full,Part
+South Kenton,963,97657,86890,,,Part,ü,,Part,Part
+Chester Road,964,97211,98625,3,ü,Full,ü,,Full,Part
+Seaford,965,97123,79022,,,Full,ü,ü,Full,Full
+Hungerford,966,96797,100164,,,Full,ü,ü,None,Part
+Bellgrove,967,96783,101648,,,No,ü,,None,Part
+Green Lane,968,96403,137593,,,No,ü,ü,Full,Part
+Hadfield,969,95768,90919,,,Full,ü,ü,Part,Part
+Stewarton,970,95365,103931,,,Full,ü,,None,Part
+Kemble,971,95284,99507,3,ü,Part,,ü,Part,Part
+Redruth,972,94802,92175,,,No,ü,,Part,Part
+Woldingham,973,94515,95978,,,No,ü,ü,Part,Part
+Mitcham Junction,974,94397,95642,,,No,ü,ü,Part,Part
+Four Oaks,975,93973,90268,,,Part,ü,ü,Full,Part
+Port Sunlight,976,93896,87167,,,No,ü,,Full,Part
+Elgin,977,93664,94125,3,ü,Part,ü,,Part,Part
+Carluke,978,93453,95693,,,Full,ü,,Part,Part
+Frinton,979,93153,93945,,,Full,ü,ü,Part,Part
+Earlestown,980,92959,90845,,,No,ü,,Full,Part
+Brondesbury Park,981,92232,98828,,,No,ü,ü,Part,Part
+Tiverton Parkway,982,92213,93049,,,Part,ü,ü,Part,Part
+Upper Holloway,983,92180,97452,,,Full,ü,,None,Part
+Clifton Down,984,92159,95224,,,Full,ü,,None,Part
+Town Green,985,92118,96042,,,Part,ü,ü,Full,Part
+Atherton,986,91817,88098,,,Full,,,Full,Part
+Lichfield City,987,91432,91644,,,No,ü,,Full,Part
+Coatdyke,988,90988,91080,,,Part,ü,,None,Part
+Bruce Grove,989,90719,93037,,,No,ü,ü,Part,Part
+Oakham,990,90648,92592,,,Full,ü,,Part,Part
+Prittlewell,991,90262,102533,,,Part,ü,ü,Part,Part
+Cleethorpes,992,90097,88989,,,Full,ü,,Part,Part
+Moulsecoomb,993,89963,88206,,,No,ü,,Part,Part
+Hilsea Portsmout,994,89918,91684,,,Part,ü,ü,Part,Part
+Pengam,995,89767,87988,,,Full,,,None,Part
+Driffield,996,89701,91804,,,Full,,,None,Part
+Berrylands,997,89686,92972,,,Part,ü,ü,Part,Part
+Bromley Cross,998,89442,87839,,,Full,,,Part,Part
+Dalgety Bay,999,89133,97288,,,Full,ü,ü,None,Part
+Saltburn,1000,89069,83912,,,Full,ü,,None,Part
+Mortimer,1001,89001,90531,,,Part,ü,ü,Part,Part
+Newton Lanark,1002,88746,90348,,,Full,,,Part,Part
+Totton,1003,88636,89675,,,Part,ü,ü,Part,Part
+Cardiff Bute Rd,1004,88596,89315,,,Full,,,None,Part
+Barmouth,1005,88540,85664,,,Full,,,None,Part
+Cross Gates,1006,88412,87546,,,Full,ü,,Part,Part
+Ludlow,1007,88238,89580,,,Full,ü,ü,Part,Part
+Old Roan,1008,88163,89169,,,Full,ü,ü,Full,Full
+Barnstaple,1009,88147,88535,,,Full,,,Part,Part
+Pokesdown,1010,88090,88425,,,No,ü,ü,Part,Part
+Widnes,1011,87859,94175,,,Full,,,Part,Part
+Bargoed,1012,87830,88022,,,Full,,ü,None,Part
+Cookham,1013,87762,90573,,,Full,ü,,Part,Part
+Hadley Wood,1014,87743,94068,,,No,ü,ü,Part,Part
+Rowley Regis,1015,87718,89543,,,Part,,,Full,Part
+Birkenhead North,1016,87703,83449,,,Part,ü,,Full,Part
+Accrington,1017,87682,92154,,,Full,,,Part,Part
+Moreton In Marsh,1018,87639,88750,,,Part,ü,ü,Part,Part
+Cradley Heath,1019,87603,87183,2,ü,Full,ü,,Full,Part
+Whitchurch Hamp,1020,87505,89539,,,Part,ü,ü,Part,Part
+Wolverton,1021,87225,89807,,,Part,ü,,Part,Part
+Moreton Mersey,1022,87207,105521,,,Part,ü,ü,Full,Part
+Cwmbran,1023,87015,89981,,,Full,,,Part,Part
+Sandhills,1024,86760,92231,,,No,ü,ü,Full,Part
+Addlestone,1025,86612,87602,,,Part,ü,ü,Part,Part
+Romiley,1026,86552,86666,,,No,ü,,Part,Part
+Stamford Hill,1027,86474,84666,,,No,ü,ü,Part,Part
+Reedham (Surrey),1028,86401,83985,,,No,ü,,Part,Part
+Jordanhill,1029,85861,94613,,,Full,ü,,None,Part
+Waterbeach,1030,85860,90779,,,Full,ü,,None,Part
+Drayton Park,1031,85728,78731,,,No,ü,ü,Part,Part
+Farningham Road,1032,84848,84566,,,No,ü,ü,Part,Part
+Kirkham & Wesham,1033,84576,87184,,,No,ü,,Part,Part
+Spalding,1034,84303,84459,,,Full,ü,,Part,Part
+Tisbury,1035,84198,84735,,,Full,ü,ü,Part,Part
+Knutsford,1036,84112,85930,,,Full,,,Part,Part
+Marston Green,1037,84003,84767,,,Full,,,Full,Part
+Morecambe,1038,83476,84116,,,Full,,,Part,Part
+Malvern Link,1039,83053,82767,,,No,,,Part,None
+St Denys,1040,82936,81047,,,Part,ü,ü,Part,Part
+Axminster,1041,82623,84406,,,Full,ü,ü,Part,Part
+Witley,1042,82411,85553,,,Part,ü,ü,Part,Part
+Anderston,1043,82131,81836,,,No,ü,ü,Full,Part
+Birkdale,1044,81928,82825,,,Part,ü,,Full,Part
+Hornbeam Park,1045,81436,84174,,,No,ü,,None,Part
+St Albans Abbey,1046,81073,82134,,,Full,ü,,None,Part
+Kirkbyinashfield,1047,81008,76622,,,No,,,None,None
+Littlehaven,1048,80744,80687,,,No,ü,,Part,Part
+Stonegate,1049,80705,82093,,,Part,ü,,None,Part
+West Kilbride,1050,80627,85537,,,Full,ü,ü,None,Part
+Colchester Town,1051,80475,64626,,,Full,ü,ü,Part,Part
+Westgate On Sea,1052,80228,80460,,,No,ü,ü,Part,Part
+Wemyss Bay,1053,79989,81298,,,Full,ü,,Full,Part
+Queenborough,1054,79968,89066,,,Part,ü,,None,Part
+Milford Surrey,1055,79896,80875,,,Part,ü,ü,Part,Part
+Mossley Manchr,1056,79696,80219,,,No,,,Part,None
+Horwich Parkway,1057,79505,85545,,,Full,ü,ü,None,Part
+Livingston South,1058,79415,84639,,,Full,ü,,None,Part
+Felixstowe,1059,79400,79931,,,Full,,ü,None,Part
+Frimley,1060,79093,78349,,,Part,ü,ü,Part,Part
+Drumry,1061,78766,76012,,,Full,ü,,Full,Part
+Snodland,1062,78573,86334,,,No,,,None,None
+Freshfield,1063,78536,90834,,,Part,ü,ü,Full,Part
+Wylde Green,1064,78420,79232,,,Full,,,Full,Part
+Whifflet,1065,78213,82996,,,Full,ü,ü,None,Part
+Swanscombe,1066,77997,76830,,,No,ü,ü,Part,Part
+Ardrossan S Bch,1067,77871,79686,,,Full,ü,,Full,Part
+Treorchy,1068,77700,76089,,,Full,,,None,Part
+Teynham,1069,77564,82746,,,No,ü,ü,Part,Part
+Runcorn East,1070,77486,75401,,,Full,,,Part,Part
+Taplow,1071,77475,80628,,,Part,ü,ü,Part,Part
+Bookham,1072,77423,76900,,,Part,ü,ü,Part,Part
+Yeovil Junction,1073,77275,78166,,,Part,ü,ü,Part,Part
+Cardross,1074,77005,79687,,,Full,ü,,Full,Part
+Holyhead,1075,76972,76642,,,Full,ü,,Part,Part
+Hagley,1076,76877,79031,,,Part,,,Part,None
+Blake Street,1077,76685,77304,3,ü,Full,ü,,Full,Part
+Cupar,1078,76463,78904,,,Part,ü,,Full,Part
+Southminster,1079,75950,75971,,,Full,ü,ü,None,Part
+Littleborough,1080,75921,77871,,,No,,,Part,None
+Meols,1081,75869,81846,,,Part,ü,,Full,Part
+Castle Cary,1082,75735,76209,,,Full,ü,ü,Part,Part
+Clitheroe,1083,75682,70892,,,Full,ü,,None,Part
+Aston,1084,75422,78041,,,Full,ü,ü,Full,Full
+Urmston,1085,75414,73634,,,Full,,,Part,Part
+Bowling,1086,75340,75739,,,Part,ü,,None,Part
+Whitby,1087,74918,74447,,,Full,,,Part,Part
+Smitham,1088,74844,73530,,,No,ü,ü,Part,Part
+Narborough,1089,74645,73426,,,Part,ü,,Part,Part
+Mexborough,1090,74522,74459,,,Full,ü,,Part,Part
+Frizinghall,1091,74063,75635,,,Full,ü,,None,Part
+Heath High Level,1092,73839,76383,,,No,,,None,None
+Whitehaven,1093,73808,74988,3,ü,Full,,,Part,Part
+Isleworth,1094,73792,82042,,,No,ü,ü,None,Part
+Pencoed,1095,73628,77964,,,Full,,,None,Part
+Higham,1096,73436,75302,,,Part,ü,ü,Part,Part
+Furze Platt,1097,73423,74154,,,Full,ü,,Part,Part
+Shotton,1098,73350,74203,,,No,,,Part,None
+Scotstounhill,1099,73260,73679,,,Full,ü,,Full,Part
+Flint,1100,73019,72644,,,Part,ü,,Part,Part
+Aigburth,1101,72839,73444,,,No,ü,,Full,Part
+Altrincham,1102,72815,73285,2,ü,Full,ü,,Part,Part
+Musselburgh,1103,72633,88488,,,Full,ü,,None,Part
+Blackrod,1104,72558,75698,,,No,,,None,None
+Rainhill,1105,72461,68922,,,No,ü,,Full,Part
+Shirley,1106,72029,73245,,,Part,,,Full,Part
+Gravelly Hill,1107,71949,71737,,,Part,,,Full,Part
+Crossflatts,1108,71878,73679,,,Full,,,None,Part
+Bodmin Parkway,1109,71819,72327,,,No,ü,ü,Part,Part
+Oldfield Park,1110,71137,71953,,,Full,ü,,Part,Part
+Handforth,1111,71010,78807,,,No,,,None,None
+Reading West,1112,70991,69383,,,Part,ü,ü,None,Part
+Cogan,1113,70881,75261,,,No,,,None,None
+Cumbernauld,1114,70831,75105,,,Full,ü,,Part,Part
+Sherborne,1115,70552,70733,,,Part,ü,ü,Part,Part
+Alfreton,1116,70498,72594,,,Part,ü,,Part,Part
+Ryde St Johns Rd,1117,70311,69931,,,Part,,,None,None
+Springburn,1118,70303,72263,,,No,ü,,Part,Part
+Clandon,1119,70205,69880,,,Part,ü,ü,Part,Part
+Tadworth,1120,70093,70002,,,Full,ü,,Part,Part
+Tonypandy,1121,69925,73315,,,Full,,,None,Part
+Coryton,1122,69786,65654,,,Full,,,None,Part
+Dovercourt,1123,69752,68234,,,Full,ü,ü,Part,Part
+Kentish Tn West,1124,69728,73707,,,No,ü,ü,Part,Part
+Thetford,1125,69592,70828,,,Part,ü,,Part,Part
+Meldreth,1126,69208,71286,,,Part,ü,,Part,Part
+Levenshulme,1127,69141,63925,,,No,ü,,Part,Part
+Bridgeton,1128,69047,70687,,,Part,ü,ü,Full,Part
+Branksome,1129,68999,69995,,,No,ü,ü,Part,Part
+Torre,1130,68925,69380,,,No,ü,,None,Part
+Lymington Town,1131,68920,66193,,,Full,ü,ü,Part,Part
+Keynsham,1132,68889,69796,,,No,ü,,Part,Part
+Chestfield & S,1133,68649,70145,,,No,ü,ü,None,Part
+Bridgwater,1134,68581,67144,,,Full,ü,ü,Part,Part
+Baildon,1135,68403,77445,,,Full,,,None,Part
+Long Buckby,1136,67906,72103,,,No,,ü,Part,Part
+Sandling,1137,67778,68628,,,Part,ü,,Part,Part
+Lenham,1138,67739,69608,,,Part,,,None,None
+Crowborough,1139,67730,68786,,,No,ü,ü,Part,Part
+Brookmans Park,1140,67581,68813,,,No,ü,,Part,Part
+Ponders End,1141,67414,66643,,,Full,ü,ü,Part,Part
+Aber,1142,67221,67176,,,Full,,,None,Part
+Shawlands,1143,66971,72980,,,No,ü,,None,Part
+Harlech,1144,66843,67069,,,No,,,None,None
+Northolt Park,1145,66610,65254,,,Insufficient info provided by station operator,ü,,None,Part
+Bromsgrove,1146,66521,72195,,,Part,,ü,None,Part
+Rhymney,1147,66477,64066,,,Full,,,None,Part
+Ledbury,1148,66300,67668,,,Part,,ü,None,Part
+Chapeltown Yorks,1149,66119,69576,,,No,,,None,None
+Garston Mersey,1150,66112,74910,,,Part,ü,,Full,Part
+Appley Bridge,1151,65887,68199,,,Full,,,None,Part
+Greenfield,1152,65795,67079,,,No,,,Part,None
+Newington,1153,65768,68580,,,Part,ü,ü,Part,Part
+Gobowen,1154,65653,67891,,,Full,,,Part,Part
+Acocks Green,1155,65523,62048,,,Part,,,Full,Part
+Davenport,1156,65518,65247,,,No,ü,ü,Part,Part
+Pollokshields East,1157,65293,80534,,,No,ü,,Part,Part
+Craigendoran,1158,65095,66051,,,Full,ü,,None,Part
+Thorpe Le Soken,1159,64890,67194,,,No,ü,ü,Full,Part
+Hillington West,1160,64833,66696,,,No,ü,,Part,Part
+Dunfermline East,1161,64647,66456,,,Full,ü,,None,Part
+Ulverston,1162,64644,66606,,,No,,,Part,None
+Broad Green,1163,64376,63569,,,Full,ü,,Full,Part
+Hough Green,1164,64358,59818,,,No,ü,,Full,Part
+Tame Bridge,1165,64173,61706,,,Full,,,Full,Part
+East Garforth,1166,64086,60481,,,Full,ü,,None,Part
+Yardley Wood,1167,63934,63915,,,Full,ü,,Full,Part
+Wishaw,1168,63926,65500,,,Full,ü,,Part,Part
+Hillfoot,1169,63918,69352,,,Full,ü,,None,Part
+Tattenham Corner,1170,63823,64328,,,Full,ü,ü,Part,Part
+Mountain Ash,1171,63518,68866,,,Full,,,None,Part
+Sutton Parkway,1172,63487,62426,,,No,,ü,None,Part
+Lea Hall,1173,63110,62370,,,Full,ü,,Full,Part
+Ryde Pier Head,1174,63069,53583,,,Full,,ü,Full,Part
+Rosyth,1175,62700,67898,,,Part,ü,,None,Part
+Ravensbourne,1176,62539,59484,,,No,ü,ü,Part,Part
+Wool,1177,62449,64453,,,Part,ü,ü,Part,Part
+South Acton,1178,62441,65547,,,No,,,Part,None
+Seer Green,1179,62294,61919,,,Insufficient info provided by station operator,ü,,Part,Part
+Pontyclun,1180,61895,60903,,,Full,,,None,Part
+Thirsk,1181,61766,63111,,,Full,ü,,Part,Part
+Darwen,1182,61740,64923,,,Full,ü,,None,Part
+Morpeth,1183,61562,61580,,,Part,,,Part,None
+Hillside,1184,61558,63473,,,No,ü,ü,Full,Part
+Widney Manor,1185,61516,60899,,,Full,,,Full,Part
+Pewsey,1186,61350,62463,,,Part,ü,ü,Part,Part
+Barry Docks,1187,61320,60949,,,Full,,,None,Part
+Paisley Canal,1188,61292,66177,,,Full,ü,,None,Part
+Stepps,1189,61055,66685,,,Full,ü,,None,Part
+Mills Hill,1190,60822,63645,,,No,,,None,None
+Digby & Sowton,1191,60818,59687,,,Full,ü,,None,Part
+Barnt Green,1192,60768,72734,,,Part,,,None,None
+North Walsham,1193,60649,63794,,,Full,,ü,None,Part
+Upper Halliford,1194,60541,59226,,,Part,ü,ü,Part,Part
+Burntisland,1195,60476,61619,,,Part,ü,,Part,Part
+Eastbrook,1196,60426,62896,,,Full,,,None,Part
+Kingham,1197,59938,61380,,,Part,ü,ü,Part,Part
+Hengoed,1198,59860,60231,,,No,,,None,None
+South Tottenham,1199,59781,75427,,,No,ü,,None,Part
+Lymington Pier,1200,59768,60769,,,Full,ü,ü,None,Part
+Harlow Mill,1201,59734,61099,,,Full,ü,ü,Part,Part
+Adwick,1202,59652,55844,,,Full,,,None,Part
+Fort William,1203,59266,47018,,,Full,ü,ü,Full,Full
+Headstone Lane,1204,59162,59538,,,No,ü,,Part,Part
+St Helens Junction,1205,58851,58800,,,Full,ü,,Full,Part
+Gatley,1206,58618,58011,,,Full,ü,,Part,Part
+Beckenham Hill,1207,58592,56830,,,Part,ü,ü,Part,Part
+Bramhall,1208,58591,59202,,,Full,,,Part,Part
+Hoylake,1209,58095,66240,,,Part,ü,,Full,Part
+Pevensey & Westham,1210,58085,59341,,,No,ü,ü,Part,Part
+Worplesdon,1211,57950,57813,,,Part,ü,ü,Part,Part
+Grangetown Glam,1212,57908,59793,,,No,ü,,None,Part
+Wye,1213,57896,59795,,,No,,,Full,Part
+Grateley,1214,57783,59223,,,Part,ü,ü,None,Part
+Barnes Bridge,1215,57327,70699,,,No,ü,ü,None,Part
+Bromborough Rake,1216,57242,45272,,,Part,ü,,Full,Part
+Sandhurst Berks,1217,56844,59288,,,Full,ü,ü,None,Part
+Harwich International,1218,56759,58846,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Eastham Rake,1219,56690,52553,,,No,ü,,Full,Part
+Walton On Naze,1220,56635,56800,,,Full,ü,ü,Part,Part
+Perry Barr,1221,56581,61538,,,Part,,,Full,Part
+Starbeck,1222,56505,52543,,,Full,,,None,Part
+Poynton,1223,56489,57820,,,Full,,,Part,Part
+Cannock,1224,56379,58286,,,Full,,,None,Part
+Yate,1225,56291,56464,,,No,,,Part,Unknown
+Stechford,1226,56228,54282,,,No,,,Full,Part
+Burnley Manchester Road,1227,56166,58990,,,Full,ü,,None,Part
+Barming,1228,56086,56442,,,Part,,,Part,None
+Wandsworth Road,1229,56075,64968,,,No,ü,ü,None,Part
+Croftfoot,1230,56023,60018,,,No,ü,,Part,Part
+Haverfordwest,1231,56021,55205,,,No,,ü,Part,Part
+Olton,1232,55942,55492,,,Full,ü,,Full,Part
+Marshalls Cross/Lea Green,1233,55929,54283,,,Full,ü,,Full,Part
+Inverurie,1234,55924,53900,,,Part,ü,,Part,Part
+Sowerby Bridge,1235,55903,56252,,,Full,ü,,None,Part
+Shotts,1236,55789,56670,,,Full,ü,,Part,Part
+West Brompton,1237,55776,75638,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Stone Crossing,1238,55725,67077,,,No,ü,ü,Part,Part
+Drumgelloch,1239,55449,57405,,,Full,ü,,None,Part
+Mansfield Wdhse,1240,55448,53692,,,Full,,ü,None,Part
+Garswood,1241,55256,54478,,,No,ü,,Full,Part
+Welham Green,1242,55204,59497,,,Part,ü,,Part,Part
+Longniddry,1243,55098,62023,,,Full,ü,,None,Part
+Alderley Edge,1244,55071,57739,,,Full,ü,,Part,Part
+Cowdenbeath,1245,54948,54212,,,Full,ü,,Part,Part
+Berkswell,1246,54829,54046,,,Full,,,Full,Part
+Eynsford,1247,54812,56094,,,Part,,ü,None,Part
+Camborne,1248,54794,54834,,,Full,ü,,Part,Part
+Metheringham,1249,54537,58496,,,Full,,,None,Part
+Dinas Powys,1250,54418,59351,,,Full,,ü,None,Part
+Grange Over Sands,1251,54303,53676,,,Full,ü,,Part,Part
+Frodsham,1252,54199,58091,,,Part,,,None,None
+Chipstead,1253,54110,53471,,,No,ü,ü,Part,Part
+Sheringham,1254,54025,52696,,,Full,,ü,None,Part
+New Mills Newtow,1255,54019,54199,,,Full,ü,ü,Part,Part
+Prudhoe,1256,53946,57504,,,Full,,,None,Part
+Hall Green,1257,53891,56457,,,Full,ü,,Full,Part
+Parkstone Dorset,1258,53871,53219,,,Part,ü,ü,Part,Part
+Maesteg,1259,53823,53282,,,Full,,,None,Part
+Pollokshields W,1260,53741,66619,,,No,ü,,None,Part
+Langside,1261,53680,67539,,,No,ü,,None,Part
+Markinch,1262,53302,57523,,,No,ü,,Part,Part
+St Annes On Sea,1263,53073,53076,,,Full,ü,,Part,Part
+Church Stretton,1264,52952,54497,,,Full,,,None,Part
+Syston,1265,52919,51468,,,Full,,,None,Part
+Wainfleet,1266,52901,54953,,,Full,,,None,Part
+Severn Tunnel Jn,1267,52865,54267,,,No,,,None,None
+Tile Hill,1268,52780,52696,,,Full,,,Full,Part
+Bulwell,1269,52734,51802,,,Full,,ü,None,Part
+Outwood,1270,52723,55498,,,Full,,,None,Part
+Carnforth,1271,52567,52479,,,Full,ü,,None,Part
+Elsecar,1272,52523,54802,,,Full,,,None,Part
+Topsham,1273,52385,53332,,,Full,,,None,Part
+Cromer,1274,52253,54904,,,Full,,ü,None,Part
+Wombwell,1275,52160,56573,,,Full,,,None,Part
+Northwich,1276,52075,53617,,,No,,,Part,None
+Garscadden,1277,51975,53285,,,No,ü,,Full,Part
+Tywyn,1278,51937,52305,,,Full,,,None,Part
+Sandbach,1279,51910,54586,,,No,,,Part,None
+Edenbridge Town,1280,51764,46571,,,No,ü,ü,Part,Part
+Oban,1281,51430,50123,,,Full,ü,,Full,Part
+Dalry,1282,51392,57808,,,Full,ü,,None,Part
+Walsden,1283,51266,52097,,,No,,,None,None
+Holmes Chapel,1284,51251,51983,,,Full,,,Part,Part
+Headingley,1285,51044,58639,,,No,,,None,None
+Uckfield,1286,50960,52404,,,Full,ü,ü,Part,Part
+Kemsley,1287,50947,60885,,,Part,,,None,None
+Redcar East,1288,50874,52603,,,Full,,,None,Part
+Lisvane & Thornhill,1289,50862,52242,,,Full,,,None,Part
+Llanishen,1290,50760,52971,,,Full,,,None,Part
+Bridge Of Allan,1291,50649,56035,,,Part,ü,,None,Part
+Daisy Hill,1292,50609,45776,,,No,,,Full,Part
+Maxwell Park,1293,50412,58260,,,No,ü,,None,Part
+Burscough Bridge,1294,50357,51712,,,Full,,,None,Part
+Leominster,1295,50287,53614,,,Full,,,None,Part
+Bredbury,1296,50013,49827,,,No,,,Part,None
+Hillington East,1297,49995,55113,,,Full,ü,,Part,Part
+Syon Lane,1298,49956,58322,,,Part,ü,ü,None,Part
+Leyton Midland Road,1299,49841,60205,,,No,ü,,None,Part
+Ben Rhydding,1300,49794,52473,,,Full,ü,,None,Part
+Woodlesford,1301,49649,45846,,,Full,,,None,Part
+Mchrists Hospital,1302,49298,48862,,,No,ü,ü,Part,Part
+Walkden,1303,49130,49579,,,No,,,Part,None
+Settle,1304,49050,45391,,,Full,,,Part,Part
+Ibm Halt,1305,48889,45573,,,Full,ü,,None,Part
+Fambridge,1306,48773,49186,,,Part,ü,ü,None,Part
+Cambridge Heath,1307,48758,52473,,,No,ü,ü,None,Part
+Kendal,1308,48383,51167,,,Full,,,None,Part
+Girvan,1309,48369,48160,,,Part,ü,ü,Part,Part
+Clapham High St,1310,48009,59545,,,No,ü,ü,None,Part
+Glas Corkerhill,1311,48008,48240,,,Full,ü,,None,Part
+Moorthorpe,1312,47979,50953,,,Full,,,None,Part
+Aberdour,1313,47864,48512,,,Part,ü,,Part,Part
+Micklefield,1314,47818,46164,,,Full,,,None,Part
+Bare Lane,1315,47774,53407,,,Full,,,None,Part
+Congleton,1316,47558,49970,,,No,,,Part,None
+Cooden Beach,1317,47451,47696,,,Full,ü,ü,Part,Part
+Workington,1318,47383,49080,,,Part,,,Part,None
+Frant,1319,47145,47753,,,No,ü,,Part,Part
+Shelford,1320,47053,48952,,,Full,ü,ü,Part,Part
+Shiplake,1321,47031,48620,,,Full,ü,,None,Part
+Butlers Lane,1322,47026,42845,,,Part,,,Full,Part
+Wembley Stadium,1323,47023,55732,,,Part,ü,,None,Part
+West Sutton,1324,46720,42171,,,No,ü,,None,Part
+Guide Bridge,1325,46715,47878,,,No,,,Part,None
+Matlock,1326,46703,47733,,,Full,,,None,Part
+Coseley,1327,46693,48274,,,Full,,,Full,Part
+Roydon,1328,46674,48603,,,Full,ü,,Part,Part
+Salford Manchr,1329,46626,46959,,,Full,ü,,Part,Part
+Barassie,1330,46492,52398,,,Part,ü,,None,Part
+Ton Pentre,1331,46118,48993,,,Full,,,None,Part
+Aughton Park,1332,46052,49008,,,No,ü,ü,Full,Part
+Mirfield,1333,46045,48410,,,No,,,None,None
+Northumberland P,1334,46031,52945,,,Full,,,Part,Part
+Bosham,1335,45947,47006,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Tipton,1336,45925,45755,,,Full,,,Full,Part
+Newhaven Harbour,1337,45870,47077,,,No,,,None,None
+Burnley Central,1338,45813,48342,,,Full,ü,,Part,Part
+Littleport,1339,45794,48569,,,No,,,None,None
+Hindley,1340,45438,46691,,,No,,,Part,None
+Aldrington,1341,45346,46595,,,No,,,None,None
+Kings Park,1342,45251,49789,,,No,ü,,Part,Part
+East Didsbury,1343,45217,47230,,,Full,ü,,Part,Part
+Highbridge,1344,45059,45951,,,Full,ü,,None,Part
+Dudley Port,1345,44956,48058,,,Part,,,Full,Part
+Yeovil Pen Mill,1346,44954,45636,,,No,ü,ü,Part,Part
+Watton At Stone,1347,44916,48350,,,Part,ü,,Part,Part
+Penistone,1348,44893,46377,,,No,ü,,None,Part
+Ystrad Rhondda,1349,44887,46426,,,Full,,,None,Part
+Hednesford,1350,44868,44475,,,Full,,,None,Part
+Lostock Parkway,1351,44849,43244,,,No,,,Full,Part
+Smethwick Gal Bg,1352,44741,46376,,,Full,ü,,Full,Part
+Hartford,1353,44669,46127,,,Full,ü,,Full,Part
+Wavertree Technology Park,1354,44624,44613,,,Full,ü,,Full,Part
+Hinton Admiral,1355,44530,47248,,,Part,ü,ü,Part,Part
+Annan,1356,44274,45479,,,Full,ü,,None,Part
+Oulton Broad North,1357,44027,47191,,,Full,,ü,None,Part
+Irlam,1358,44019,46568,,,No,,,None,None
+Rugeley Town,1359,43988,44974,,,No,,,None,None
+Balcombe,1360,43944,45928,,,No,ü,ü,Part,Part
+Cressington,1361,43808,30981,,,No,ü,,Full,Part
+Uttoxeter,1362,43770,45321,,,Part,,,None,None
+Darton,1363,43593,45241,,,Full,ü,,None,Part
+Crewkerne,1364,43591,44244,,,Part,ü,ü,Part,Part
+Bedwyn,1365,43548,44020,,,Part,ü,ü,None,Part
+Prestonpans,1366,43527,48262,,,Part,ü,,None,Part
+Ashwell & Morden,1367,43522,45539,,,No,ü,,Part,Part
+Fishersgate,1368,43231,46471,,,No,,,None,None
+Kirkwood,1369,43076,44397,,,Full,ü,,None,Part
+Knockholt,1370,43046,51239,,,Part,,,Part,Unknown
+Alnmouth,1371,42917,43519,,,No,ü,,Part,Part
+Woodsmoor,1372,42903,44535,,,Full,ü,,Part,Part
+Sandal,1373,42896,43519,,,Full,ü,ü,None,Part
+The Hawthorns,1374,42848,42413,,,Full,,,Full,Part
+Chepstow,1375,42823,45476,,,No,,,None,Part
+Iver,1376,42749,49120,,,No,ü,ü,Part,Part
+Normanton,1377,42620,41841,,,Full,,,None,Part
+Busby,1378,42615,47521,,,Part,ü,,None,Part
+Bentley (S Yorks),1379,42529,38965,,,Full,ü,,None,Part
+Bramley W Yorks,1380,42440,43853,,,No,ü,,None,Part
+Dormans,1381,42233,43156,,,No,ü,ü,Part,Part
+Nutfield,1382,42160,43174,,,Part,,,None,Unknown
+Bedhampton,1383,42154,43803,,,Part,ü,ü,Part,Part
+Hightown,1384,42122,42066,,,Part,ü,ü,Full,Part
+Manor Road,1385,42068,39567,,,No,ü,,Full,Part
+Carntyne,1386,41949,45255,,,Full,ü,,None,Part
+Shenstone,1387,41788,47237,,,No,ü,,Part,Part
+Mossley Hill,1388,41779,40007,,,No,ü,,Full,Part
+Gainsborough Lea Rd,1389,41719,44450,,,Full,,,None,Part
+Whiston,1390,41665,37647,,,Full,ü,,Full,Part
+Wem,1391,41573,42199,,,Full,,,None,Part
+Chester Le St,1392,41407,45279,,,Full,,,None,Part
+Newton For Hyde,1393,41295,45335,,,No,,,Part,None
+Slaithwaite,1394,41182,43601,,,Full,ü,,None,Part
+Seaham,1395,41040,41203,,,Full,ü,,None,Part
+Abercynon North,1396,40987,41974,,,Full,,,None,Part
+Wallyford,1397,40911,49440,,,Full,ü,,None,Part
+Bootle Oriel Rd,1398,40896,16895,,,Part,ü,ü,Full,Part
+Berwick E Sussex,1399,40845,41788,,,No,ü,ü,Part,Part
+Llanbradach,1400,40723,40431,,,Full,,,None,Part
+Machynlleth,1401,40664,40555,,,Full,,,Part,Part
+Great Chesterford,1402,40644,42514,,,Part,ü,ü,Part,Part
+Broadbottom,1403,40590,41749,,,No,,,Part,None
+Banstead,1404,40398,43475,,,No,,,None,None
+Overton,1405,40337,41756,,,Part,ü,ü,Part,Part
+Collington,1406,40329,42132,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Witton,1407,40313,44400,,,Part,ü,,Full,Part
+Sole Street,1408,40258,40717,,,No,,,Part,None
+Woolston,1409,40101,40439,,,Part,ü,ü,Part,Part
+Newtown Powys,1410,40017,40751,,,Full,,,None,Part
+North Queensferry,1411,39817,44494,,,Full,ü,,None,Part
+Frome,1412,39796,40286,,,Full,ü,ü,Part,Part
+Birmingham Moor St,1413,39737,20201,,,Full,ü,ü,Part,Part
+Stapleton Road,1414,39422,37779,,,Full,ü,,None,Part
+Cardonald,1415,39381,42281,,,Part,ü,,Part,Part
+Marsden,1416,39271,46363,,,No,ü,,None,Part
+Falmouth Town,1417,39209,41168,,,Full,ü,,None,Part
+East Malling,1418,39174,42999,,,No,,,None,None
+Bagshot,1419,39030,42623,,,Part,ü,ü,Part,Part
+Smethwick Rlf St,1420,39006,41230,,,Full,,,Full,Part
+Llwynypia,1421,39000,38934,,,Full,,,None,Part
+Sway,1422,38996,39871,,,Part,ü,ü,Part,Part
+Par,1423,38839,39336,,,No,ü,ü,Part,Part
+Pluckley,1424,38807,39733,,,Part,ü,ü,Part,Part
+Worle,1425,38766,40488,,,Full,ü,,None,Part
+Flowery Field,1426,38755,45636,,,Full,,,None,Part
+Fitzwilliam,1427,38604,40824,,,Full,ü,,None,Part
+Custom House,1428,38454,37313,,,Full,ü,,Insufficient info provided by station operator,Part
+Mauldeth Road,1429,38432,35147,,,Full,ü,,Part,Part
+Parbold,1430,38416,37340,,,Full,,,Part,Part
+Harwich Town,1431,38362,40643,,,Full,ü,ü,None,Part
+Milnrow,1432,38328,38487,,,Full,ü,,None,Part
+Kirkhill,1433,38257,42799,,,Full,ü,,None,Part
+Newquay,1434,38167,37936,,,Full,ü,,Part,Part
+Lake,1435,38137,40142,,,Full,,,None,Part
+Saxmundham,1436,38124,38213,,,Full,,ü,None,Part
+Newcraighall,1437,38058,41559,,,Full,,,None,Part
+Pollokshaws East,1438,37976,48441,,,No,ü,,None,Part
+Beccles,1439,37770,37851,,,Full,,ü,None,Part
+Hamworthy,1440,37751,37228,,,Part,ü,ü,Part,Part
+West St Leonards,1441,37594,36944,,,No,ü,ü,Part,Part
+Bentley,1442,37549,38122,,,Part,ü,ü,Part,Part
+Folkestone West,1443,37386,35909,,,No,ü,,Part,Part
+Wylam,1444,37284,42232,,,Full,ü,,None,Part
+Prescot,1445,37281,37236,,,No,ü,,Full,Part
+Cononley,1446,37213,40701,,,Full,,,None,Part
+Forres,1447,37203,38118,,,Full,ü,,Part,Part
+Dagenham Dock,1448,37167,39213,,,Full,ü,ü,Part,Part
+Sutton Common,1449,37142,38052,,,No,ü,,None,Part
+Troed Y Rhiw,1450,37110,37731,,,Full,,,None,Part
+Arnside,1451,37107,39227,,,Full,,,None,Part
+Adlington (Lancs),1452,37071,37051,,,Full,,,Part,Part
+Stevenston,1453,36905,39059,,,Full,ü,,None,Part
+Kinghorn,1454,36876,36238,,,No,ü,,Part,Part
+Filey,1455,36755,38341,,,Full,ü,ü,None,Part
+Ruskington,1456,36721,38836,,,Full,,,None,Part
+Pontefract Mnkhl,1457,36720,38198,,,No,ü,,None,Part
+Aylesham,1458,36653,36913,,,No,,ü,Part,Part
+Batley,1459,36582,39834,,,No,ü,,None,Part
+Brading,1460,36550,36996,,,Part,,,None,None
+Lympstone Comm,1461,36364,34576,,,Full,ü,,None,Part
+Looe,1462,36299,36119,,,Full,ü,,None,Part
+Cheddington,1463,36237,37950,,,Part,ü,ü,Part,Part
+Bidston,1464,36234,35398,,,No,ü,,Full,Part
+Pannal,1465,36212,42814,,,No,,,None,None
+Pembry & By Port,1466,36199,36117,,,Full,,,None,Part
+Westhoughton,1467,35996,37150,,,No,,,None,None
+Salfords,1468,35986,37971,,,No,ü,,Part,Part
+Buxted,1469,35953,35882,,,Full,ü,ü,Part,Part
+Belper,1470,35930,38407,,,Full,,,None,Part
+Woodbridge,1471,35880,37709,,,Part,,ü,None,Part
+Drem,1472,35853,38018,,,Part,ü,,None,Part
+Ford,1473,35837,35802,,,No,,,Part,None
+Garston Herts,1474,35823,37603,,,Full,ü,,None,Part
+St Erith,1475,35664,35742,,,Full,ü,,Part,Part
+Thatto Heath,1476,35443,34980,,,Full,ü,,Full,Part
+Merthyr Vale,1477,35406,37602,,,Full,,,None,Part
+Smithy Bridge,1478,35369,36510,,,Full,ü,,None,Part
+Whaley Bridge,1479,35309,35152,,,Full,ü,,Part,Part
+Mytholmroyd,1480,35234,37132,,,Full,,,None,Part
+South Hampstead,1481,35234,37709,,,No,ü,,Part,Part
+Hanborough,1482,35232,34765,,,Full,ü,,None,Part
+Tenby,1483,35231,36356,,,No,,,None,None
+Aviemore,1484,34892,35380,,,Part,ü,,Full,Part
+Nairn,1485,34864,36878,,,Full,ü,,Part,Part
+Watford North,1486,34849,36378,,,Full,ü,,None,Part
+Roby,1487,34727,35304,,,No,ü,,Full,Part
+Templecombe,1488,34726,35189,,,Full,ü,ü,Part,Part
+Hoveton & Wroxham,1489,34712,36602,,,Full,,ü,None,Part
+Milliken Park,1490,34576,40438,,,Part,ü,,None,Part
+West Calder,1491,34435,36691,,,Full,ü,,None,Part
+Yarm,1492,34394,37176,,,Full,ü,,None,Part
+Whyteleafe South,1493,34346,34046,,,No,ü,,Part,Part
+Jewellery Quarter,1494,34310,35088,,,Full,,,Full,Part
+Rice Lane,1495,34266,30411,,,No,ü,,Full,Part
+Fort Matilda,1496,34263,34136,,,No,ü,,None,Part
+Thornliebank,1497,34257,41987,,,Full,ü,,None,Part
+North Woolwich,1498,34207,33236,,,Full,ü,,Part,Part
+Netley,1499,34175,33794,,,Full,ü,ü,Part,Part
+Shalford,1500,34164,33762,,,Full,ü,ü,None,Part
+Plumpton,1501,34077,34631,,,No,ü,,Part,Part
+Newmarket,1502,34039,36941,,,Full,,ü,None,Part
+Swaythling,1503,33907,34856,,,Part,ü,ü,Part,Part
+Botley,1504,33805,35858,,,No,ü,ü,None,Part
+Walton Merseysde,1505,33739,31416,,,Part,ü,,Full,Part
+Great Bentley,1506,33699,34489,,,Part,ü,ü,Full,Part
+Abercynon South,1507,33682,34678,,,Full,,,None,Part
+Cosford,1508,33484,31446,,,No,,,None,None
+Pitlochry,1509,33429,33461,3,ü,Part,ü,,Part,Part
+Blackpool South,1510,33419,34284,,,Full,,,None,Part
+Penmere,1511,33352,34108,,,Full,ü,,None,Part
+Crouch Hill,1512,33306,39421,,,No,ü,,None,Part
+Winsford,1513,33233,33568,,,Full,,,Full,Part
+Kirk Sandall,1514,33176,32227,,,Full,,,None,Part
+Kilmaurs,1515,33158,34854,,,Full,ü,,None,Part
+Bryn,1516,32845,34503,,,No,,,None,None
+Brunstane,1517,32751,33860,,,Full,,,None,Part
+Ty Glas,1518,32733,31462,,,Full,,,None,Part
+Walthamstow Queens Rd,1519,32638,44037,,,Full,ü,,None,Part
+Attleborough,1520,32260,33580,,,Full,,,None,Part
+Wimbledon Chase,1521,32258,31151,,,No,ü,,None,Part
+Rhiwbina,1522,32198,33864,,,Full,,,None,Part
+Hamstead,1523,32172,34607,,,Part,,,Full,Part
+Spring Road,1524,32013,32570,,,Part,,,Full,Part
+Stonehouse,1525,31976,34426,,,Full,ü,,Part,Part
+Gilberdyke,1526,31934,32649,,,No,ü,,None,Part
+Wargrave,1527,31732,34152,,,Full,ü,,None,Part
+Reddish North,1528,31555,32700,,,Full,,,Part,Part
+Craven Arms,1529,31499,32447,,,Full,,,None,Part
+Sileby,1530,31436,28959,,,No,,,None,None
+Rowlands Castle,1531,31417,32592,,,Part,ü,ü,Part,Part
+Montpelier,1532,31389,30616,,,Full,ü,,None,Part
+Greenbank,1533,31077,30529,,,Full,,,None,Part
+Sturry,1534,31025,30322,,,Part,,,None,None
+Henley In Arden,1535,30927,35558,,,Part,,,None,None
+Gorton,1536,30922,30101,,,Full,,,Part,Part
+Lympstone Village,1537,30832,33529,,,Full,ü,,None,Part
+Huntly,1538,30725,31276,,,Full,ü,,Part,Part
+Fishbourne,1539,30607,31802,,,Full,,,None,Part
+Keith,1540,30252,32514,,,Full,ü,,Part,Part
+Lydney,1541,30233,31353,,,Full,,,None,Part
+Burnage,1542,30082,28713,,,Full,ü,,Part,Part
+Watlington,1543,29910,34181,,,Full,,,None,Part
+Aylesford,1544,29708,30837,,,Part,,,None,None
+Charing Kent,1545,29572,30914,,,Part,ü,ü,Part,Part
+Branchton,1546,29553,29359,,,Full,ü,,None,Part
+Alvechurch,1547,29497,38910,,,Full,,,None,Part
+Penrhyndeudraeth,1548,29495,29290,,,Full,,,None,Part
+Hale,1549,29484,30639,,,No,,,Part,None
+Camelon,1550,29348,32041,,,Full,ü,,None,Part
+Welshpool,1551,29281,31257,,,Full,,,None,Part
+Castleton,1552,29186,31943,,,Full,,,None,Part
+Bamber Bridge,1553,29169,28444,,,Full,ü,,None,Part
+Mallaig,1554,29111,35189,,,Full,,ü,Part,Part
+Old Hill,1555,29030,27867,,,No,,,Full,Part
+Harrngay Grn Lns,1556,28781,36203,,,Full,ü,,None,Part
+Kintbury,1557,28779,30090,,,Full,ü,,None,Part
+Starcross,1558,28733,29651,,,No,ü,,None,Part
+Carbis Bay,1559,28676,31944,,,Full,ü,,None,Part
+Abergele,1560,28656,30766,,,Full,,,None,Part
+Lytham,1561,28619,29765,,,Full,ü,,None,Part
+Nelson,1562,28608,28439,,,Full,ü,,None,Part
+Tir Phil,1563,28392,28693,,,No,,,None,None
+Pwllheli,1564,28375,27936,,,Full,,,None,Part
+Knottingley,1565,28325,27753,,,No,,,None,None
+Ardrossan Harbour,1566,28252,31192,,,Full,ü,,None,Part
+Maryport,1567,28199,29370,,,Full,,,None,Part
+Renton,1568,28176,29643,,,Full,ü,,None,Part
+Minster,1569,28040,28595,,,Part,,,None,None
+Yoker,1570,28018,32225,,,Full,ü,,None,Part
+Cartsdyke,1571,27976,29896,,,Full,ü,,Part,Part
+Little Sutton,1572,27925,33403,,,Part,,,None,None
+Shirebrook,1573,27738,26275,,,Full,,,None,Part
+New Mills Central,1574,27704,27881,,,No,ü,,Part,Part
+Shepherds Well,1575,27673,28543,,,No,,,Part,None
+Hawkhead,1576,27663,33474,,,Full,ü,,None,Part
+Birkbeck,1577,27575,26040,,,No,,,None,None
+Halesworth,1578,27537,27726,,,Full,,ü,None,Part
+Bishop Auckland,1579,27448,27270,,,Full,,,None,Part
+Lawrence Hill,1580,27433,26747,,,Full,ü,,None,Part
+Dunlop,1581,27319,30832,,,Full,ü,,None,Part
+Morley,1582,27319,27272,,,No,ü,ü,None,Part
+Bescot Stadium,1583,27311,27488,,,No,ü,,Full,Part
+Tyseley,1584,27240,24724,,,Part,,,Full,Part
+Shifnal,1585,27114,28149,,,No,,,None,None
+Langley Mill,1586,27113,28237,,,No,,,None,None
+Radley,1587,27096,28728,,,Part,ü,,None,Part
+Padgate,1588,27084,26593,,,Full,ü,,None,Part
+Rose Hill Marple,1589,26895,26157,,,Full,,,Part,Part
+South Milford,1590,26853,26105,,,No,ü,,None,Part
+Swinton,1591,26781,27364,3,,No,,,Part,None
+Langley Green,1592,26670,26885,,,Full,,,Full,Part
+Leytonstone H Rd,1593,26641,33579,,,No,ü,,None,Part
+Godstone,1594,26617,27581,,,Part,,,None,Unknown
+Market Rasen,1595,26610,29158,,,Full,,ü,None,Part
+Carmyle,1596,26581,29990,,,Full,ü,,None,Part
+Eccles,1597,26484,26747,,,No,,,Part,None
+Wanborough,1598,26460,26285,,,Part,ü,ü,None,Part
+Glas Crookston,1599,26459,33215,,,Full,ü,,None,Part
+Northfleet,1600,26373,30263,,,Part,ü,ü,Part,Part
+Kilpatrick,1601,26346,30300,,,Full,ü,,None,Part
+Dumbreck,1602,26335,32986,,,Full,ü,,None,Part
+Earlswood W Midlands,1603,26311,27512,,,Full,,,None,Part
+Harrietsham,1604,26271,27120,,,Part,,,Part,None
+Insch,1605,26252,27073,,,Part,,,None,None
+Denby Dale,1606,26216,27514,,,No,ü,,None,Part
+Mosspark,1607,26047,29347,,,Full,ü,,None,Part
+Canley,1608,25987,26461,,,Part,,,Full,Part
+Brinnington,1609,25953,25024,,,Full,,,Part,Part
+WHITCHURCH (SHROPSHIRE),1610,25945,27208,,,Full,,,None,Part
+Conisbrough,1611,25907,25685,,,Full,ü,,None,Part
+Dawlish Warren,1612,25885,29390,,,Full,,,None,Part
+Capenhurst,1613,25753,30438,,,Part,,,None,None
+Colne,1614,25680,25192,,,Full,ü,,None,Part
+Bicester Town,1615,25599,26599,,,Full,ü,,None,Part
+Hall Road,1616,25505,24872,,,Part,ü,,Full,Part
+Holytown,1617,25428,27592,,,Full,ü,,None,Part
+Ashburys,1618,25359,25919,,,No,,,None,None
+Feniton,1619,25354,24278,,,Part,ü,ü,Part,Part
+Selling,1620,25272,26454,,,Part,,,None,Unknown
+Pershore,1621,25192,25757,,,Full,ü,,None,Part
+Penryn,1622,25085,26849,,,Full,ü,,None,Part
+Newbury Racecourse,1623,24968,25236,,,Part,ü,ü,None,Part
+Bache,1624,24848,25627,,,Part,,,None,None
+Heckington,1625,24818,27134,,,Full,,,None,Part
+Disley,1626,24805,24470,,,Full,ü,,Part,Part
+Redland,1627,24779,25514,,,Full,ü,,None,Part
+Cam & Dursley,1628,24772,25762,,,Full,,,None,Part
+Barton On Humber,1629,24663,24892,,,Full,ü,,None,Part
+Alresford (Essex),1630,24610,24826,,,Part,ü,ü,Full,Part
+Shawford,1631,24594,24547,,,No,ü,ü,None,Part
+Lockerbie,1632,24549,26738,,,Part,ü,,Full,Part
+Adisham,1633,24509,24732,,,Part,,,None,Unknown
+Saunderton,1634,24502,24895,,,Insufficient info provided by station operator,ü,,None,Part
+Duddeston,1635,24362,24731,,,Full,,,Full,Part
+Woodgrange Park,1636,24328,27992,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Haltwhistle,1637,24319,24571,,,Full,ü,ü,None,Part
+Wateringbury,1638,24313,26286,,,No,,,None,None
+St Helier,1639,24236,24786,,,No,ü,,None,Part
+Ashchurch,1640,24218,24962,,,Full,ü,,None,Part
+Wanstead Park,1641,24123,28354,,,No,ü,,None,Part
+Dinas Mid Glam,1642,24076,25222,,,Full,,,None,Part
+silvertown,1643,24068,25260,,,Full,ü,,Part,Part
+Bat & Ball,1644,23854,30057,,,Part,,,None,Unknown
+Prestwick Int Ap,1645,23763,45337,,,Full,,,None,Part
+Stranraer,1646,23760,24161,,,Full,ü,,Full,Part
+Bank Hall,1647,23704,27773,,,No,ü,,Full,Part
+Appleby,1648,23627,23977,,,Full,ü,,Part,Part
+Barrow Haven,1649,23621,23508,,,No,ü,,None,Part
+Stocksfield,1650,23563,26913,,,Full,ü,ü,None,Part
+Brundall,1651,23542,26840,,,Part,,ü,None,Part
+Sankey,1652,23531,23099,,,Full,ü,,Part,Part
+Penrhiwceiber,1653,23489,25088,,,Full,,,None,Part
+Alexandra Parade,1654,23319,24709,,,No,ü,,None,Part
+Bures,1655,23180,23553,,,Part,ü,ü,None,Part
+Chinley,1656,23158,24159,,,No,,,None,None
+Failsworth,1657,23152,24815,,,No,,,None,None
+Foxton,1658,22997,25877,,,Full,ü,,None,Part
+Exeter St Thomas,1659,22951,22730,,,No,ü,,None,Part
+Dinting,1660,22934,22944,,,Full,,,Part,Part
+Corbridge,1661,22901,26024,,,No,ü,,None,Part
+Polsloe Bridge,1662,22782,23097,,,No,ü,ü,None,Part
+Overpool,1663,22739,30165,,,Part,,,None,None
+Albrighton,1664,22719,23099,,,No,,,None,None
+Ham Street,1665,22655,24888,,,Full,ü,ü,Part,Part
+Marske,1666,22633,25084,,,Full,,,None,Part
+Caldicot,1667,22504,24217,,,Full,,,None,Part
+Dore,1668,22488,22996,,,Full,ü,,None,Part
+Woburn Sands,1669,22466,23277,,,Full,ü,,None,Part
+Bricket Wood,1670,22423,24207,,,Full,ü,,None,Part
+Greenfauld,1671,22218,21002,,,Full,ü,,None,Part
+Allens West,1672,22174,23023,,,Full,,,None,Part
+Epsom Downs,1673,22163,22067,,,Full,,,None,Part
+Lochwinnoch,1674,22124,26981,,,Part,ü,,None,Part
+Micheldever,1675,22008,23363,,,No,ü,ü,Part,Part
+Thurnscoe,1676,21933,22824,,,Full,ü,,None,Part
+Wymondham,1677,21804,22492,,,Part,,,None,None
+Maybole,1678,21784,19042,,,Full,ü,,None,Part
+Carnoustie,1679,21755,21821,,,Full,,,None,Part
+Quakers Yard,1680,21722,23275,,,Full,,,None,Part
+Askam,1681,21556,23353,,,No,,,None,None
+South Wigston,1682,21499,21869,,,Full,,,None,Part
+Halling,1683,21431,22692,,,Part,,,None,None
+Llandrindod,1684,21394,20189,,,Full,,,Part,Part
+Flixton,1685,21371,21987,,,Full,,,Part,Part
+Danescourt,1686,21362,21591,,,Full,,,None,Part
+Hampton In Arden,1687,21322,21657,,,Part,,,Full,Part
+Aldermaston,1688,21141,22778,,,Full,ü,,None,Part
+Stockton,1689,21120,22992,,,Full,ü,ü,None,Part
+Porthmadog,1690,21028,20557,,,Full,,,None,Part
+Birchgrove,1691,20962,21134,,,Full,,,None,Part
+Eaglescliffe,1692,20936,23357,,,Full,ü,,None,Part
+Cleland,1693,20907,23072,,,Part,ü,,None,Part
+Landywood,1694,20903,21261,,,Full,,,None,Part
+Dunton Green,1695,20855,22862,,,No,,ü,None,Part
+Airbles,1696,20799,20346,,,Full,ü,,None,Part
+Cressing,1697,20768,23049,,,Part,ü,ü,None,Part
+Avonmouth,1698,20723,19366,,,Full,,ü,None,Part
+Colwall,1699,20716,23072,,,Full,,,None,Part
+Nutbourne,1700,20698,22730,,,Full,ü,,None,Part
+Althorne (Essex),1701,20696,21481,,,Part,ü,ü,None,Part
+Orrell,1702,20627,18905,,,No,,,None,None
+Cramlington,1703,20613,20273,,,Full,ü,,None,Part
+Milford Haven,1704,20548,20260,,,Full,,,None,Part
+Moston,1705,20531,20988,,,Full,,,None,Part
+Heath Low Level,1706,20479,19423,,,Full,,,None,Part
+Dalmarnock,1707,20445,21750,,,No,ü,,Full,Part
+Langbank,1708,20441,24964,,,Full,ü,,None,Part
+Nantwich,1709,20407,21004,,,Full,,,None,Part
+Bingham,1710,20383,20655,,,Part,,,None,None
+Penkridge,1711,20103,21541,,,Full,,,None,Part
+Weeton,1712,19939,23818,,,No,,,None,None
+Croston,1713,19938,19762,,,Full,ü,,None,Part
+Lostwithiel,1714,19936,20765,,,Full,ü,,None,Part
+New Hythe,1715,19916,19585,,,No,,,None,None
+Pollokshaws West,1716,19914,24563,,,No,ü,,None,Part
+Warblington,1717,19905,21073,,,No,ü,,Part,Part
+Glenrothes with Thornton,1718,19860,20464,,,Full,ü,,None,Part
+Shepreth,1719,19834,22162,,,Full,ü,,None,Part
+Barnetby,1720,19789,20262,,,Full,ü,,None,Part
+Edale,1721,19736,20686,,,Full,,,None,Part
+Castle Bar Park,1722,19657,21021,,,Part,ü,,Part,Part
+Tutbury & Hatton,1723,19656,20058,,,Full,,,None,Part
+Church Fenton,1724,19653,20717,,,No,ü,,None,Part
+Brighouse,1725,19646,21337,,,Full,ü,,None,Part
+Pyle,1726,19603,20578,,,Full,,,None,Part
+South Merton,1727,19548,18223,,,No,ü,,None,Part
+Gunnislake,1728,19531,19478,,,Full,ü,,None,Part
+Fairbourne,1729,19402,19521,,,No,,,None,None
+Creswell,1730,19321,18609,,,Full,,,None,Part
+Helsby,1731,19280,20254,,,Part,,,None,None
+Shirehampton,1732,19274,18289,,,Full,ü,,None,Part
+Cuddington,1733,19257,18985,,,No,,,None,None
+Crowhurst,1734,19240,19882,,,Part,,,Part,Unknown
+Newstead,1735,19173,17169,,,Full,,ü,None,Part
+Thurso,1736,19100,19012,,,Full,,,Full,Part
+Pontlottyn,1737,19055,18101,,,Full,,,None,Part
+Buckley,1738,19026,22366,,,Full,,,None,Part
+Ptypool New Inn,1739,19023,20050,,,No,,,None,None
+Glynde,1740,18951,19537,,,No,,,None,None
+Dingwall,1741,18853,12996,,,Full,,,Part,Part
+Bolton On Dearne,1742,18802,19189,,,Full,,,None,Part
+Ferriby,1743,18780,21320,,,No,ü,,None,Part
+Hatfield & Stainforth,1744,18753,20342,,,Full,,,None,Part
+Lyndhurst Road,1745,18643,19757,,,Full,ü,ü,None,Part
+Hamble,1746,18601,19419,,,Part,ü,ü,None,Part
+West Ruislip,1747,18519,28413,,,No,,,Part,None
+Kings Sutton,1748,18450,21295,,,Part,ü,,None,Part
+Lochgelly,1749,18370,18557,,,Part,ü,,None,Part
+Seamer,1750,18330,18701,,,Full,,,None,Part
+Severn Beach,1751,18275,17799,,,Full,ü,,None,Part
+Whitland,1752,18259,18552,,,No,,,None,None
+Bere Alston,1753,18204,19740,,,Full,ü,,None,Part
+Cark,1754,18107,19005,,,No,,,None,None
+Poppleton,1755,18004,18401,,,Full,ü,,None,Part
+Kearsney,1756,17981,18403,,,No,,,Part,None
+Bargeddie,1757,17930,19102,,,Part,ü,,None,Part
+Kirby Cross,1758,17871,19508,,,Part,ü,,None,Part
+Drumfrochar,1759,17852,21065,,,Full,ü,,None,Part
+Blaenau Ffest,1760,17822,17559,,,Full,,,None,Part
+Bitterne,1761,17771,18568,,,Part,ü,ü,None,Part
+Baillieston,1762,17761,21215,,,Full,ü,,None,Part
+Wigton,1763,17688,18280,,,Full,ü,,None,Part
+Layton,1764,17680,17663,,,Full,ü,,None,Part
+Carfin,1765,17568,18607,,,Full,ü,,None,Part
+Saxilby,1766,17518,19516,,,Full,,,None,Part
+Borth,1767,17503,19537,,,Full,,,None,Part
+Hutton Cranswick,1768,17438,17580,,,Full,ü,,None,Part
+Kidsgrove,1769,17409,17531,,,No,,,Part,None
+Whalley Lancs,1770,17387,18369,,,No,ü,,None,Part
+Featherstone,1771,17366,15333,,,Full,,,None,Part
+Boxhill & Westhumble,1772,17345,18725,,,No,,,None,None
+Chartham,1773,17344,18909,,,Part,,,None,Unknown
+Culham,1774,17321,17864,,,Full,ü,,None,Part
+Neston,1775,17251,16553,,,Full,,,None,Part
+Moreton Dorset,1776,17241,19631,,,Part,ü,ü,None,Part
+Sea Mills,1777,17203,17446,,,Full,ü,,None,Part
+Penshurst,1778,17139,17782,,,Part,,,None,Unknown
+Hollinwood,1779,17004,17869,,,Full,,,None,Part
+Cardenden,1780,16994,16099,,,Full,ü,,None,Part
+Chapel En Le Frh,1781,16907,17576,,,Full,ü,,None,Part
+Small Heath,1782,16905,17758,,,Part,,,Full,Part
+Hayle,1783,16844,17958,,,Full,,,None,Part
+Amberley,1784,16830,18180,,,No,,,None,None
+Kirknewton,1785,16775,18292,,,Full,ü,,None,Part
+Rishton,1786,16773,16633,,,Full,ü,,None,Part
+Longbeck,1787,16616,17992,,,Full,ü,ü,None,Part
+Goldthorpe,1788,16569,16968,,,Full,ü,ü,None,Part
+Ramsgreave,1789,16501,16944,,,Full,ü,,None,Part
+Lostock Hall,1790,16486,17629,,,Full,ü,,None,Part
+Mill Hill Lancs,1791,16418,15721,,,#NAME?,ü,,#N/A,Part
+Blythe Bridge,1792,16246,17325,,,Full,,,None,Part
+Shepley,1793,16242,16580,,,No,ü,,None,Part
+Acle,1794,16224,20230,,,No,,ü,None,Part
+Euxton Balshaw Lane,1795,16118,17731,,,Full,,,None,Part
+Wilnecote,1796,16100,16978,,,No,,,None,None
+Leigh,1797,16031,17410,,,Part,,,None,Unknown
+Fauldhouse,1798,16025,16423,,,No,ü,,None,Part
+Kyle Of Lochalsh,1799,16001,25242,,,Full,,ü,Full,Part
+Bursledon,1800,15961,17210,,,Part,ü,ü,None,Part
+Cuxton,1801,15931,16676,,,Part,,,None,None
+Oldham Werneth,1802,15893,15720,,,No,,,None,None
+Langwith,1803,15886,13894,,,Full,,ü,None,Part
+Duke Street,1804,15878,16415,,,No,ü,,None,Part
+Billingham Cleve,1805,15847,16553,,,No,,,None,None
+Burscough Jn,1806,15816,17290,,,Full,ü,,None,Part
+Summerston,1807,15792,18312,,,Full,ü,,None,Part
+Godley,1808,15775,18178,,,No,,,None,None
+Lingwood,1809,15679,18389,,,Full,,ü,None,Part
+How Wood,1810,15516,16774,,,Full,ü,,None,Part
+Upwey,1811,15451,15485,,,Part,ü,ü,None,Part
+Barnhill,1812,15420,13408,,,Part,ü,,None,Part
+Attenborough,1813,15410,15706,,,Full,,,None,Part
+Hall I Th Wood,1814,15346,15625,,,No,,,None,None
+New Hey,1815,15224,14759,,,Full,,,None,Part
+Hythe,1816,15208,16937,,,Part,ü,,None,Part
+Ladybank,1817,15208,15110,,,No,ü,,Part,Part
+Cattal,1818,15168,17147,,,Full,,,None,Part
+Navigation Road,1819,15159,16388,,,Full,,,None,Part
+Martin Mill,1820,15137,15211,,,No,,,None,None
+Habrough,1821,15130,15824,,,Full,,,None,Part
+Hag Fold,1822,15107,14350,,,Full,,,Part,Part
+Wythall,1823,15101,15730,,,Full,,,Part,Part
+Castleton Moor,1824,15079,15191,,,Full,ü,,None,Part
+Whimple,1825,15039,16325,,,Full,ü,ü,None,Part
+Chirk,1826,15033,16499,,,No,,,None,Part
+Derby Rd Ipswich,1827,14995,15275,,,Full,,,None,Part
+Llwyngwril,1828,14866,15257,,,Full,,,None,Part
+Cwmbach,1829,14810,14625,,,Full,,,None,Part
+Blakedown,1830,14787,17221,,,Full,,,None,Part
+Inverkip,1831,14697,14503,,,Full,ü,,None,Part
+Belmont,1832,14626,16625,,,No,,,None,None
+Hollingbourne,1833,14608,15864,,,No,,ü,None,Part
+Trehafod,1834,14557,15290,,,No,,,None,None
+Gathurst,1835,14506,14761,,,Full,,,None,Part
+Curriehill,1836,14474,13821,,,Part,ü,,None,Part
+Eccleston Park,1837,14465,13661,,,Full,ü,,Full,Part
+Ivybridge,1838,14455,16331,,,Full,ü,,None,Part
+Eridge,1839,14451,14779,,,No,ü,ü,Part,Part
+Gwersylit,1840,14417,14092,,,Part,,,None,None
+Ansdell & Fairhn,1841,14383,15061,,,No,ü,,None,Part
+Fairlie,1842,14327,16135,,,Full,ü,,None,Part
+Falmouth Docks,1843,14305,14156,,,Full,,,None,Part
+Pembroke Dock,1844,14302,13721,,,Full,,,None,Part
+Water Orton,1845,14219,15961,,,No,,,None,None
+Bekesbourne,1846,14146,14120,,,Part,,,None,Unknown
+Pemberton,1847,14090,13711,,,Full,,,None,Part
+Valley,1848,14017,14280,,,Full,,,None,Part
+Whinhill,1849,13958,15783,,,Full,ü,,None,Part
+Auchinleck,1850,13920,14950,,,Full,ü,,None,Part
+Mistley,1851,13912,14940,,,Part,ü,ü,None,Part
+Howden,1852,13856,14000,,,Full,ü,,None,Part
+Betws Y Coed,1853,13806,13846,,,Full,,,None,Part
+Tondu,1854,13703,13335,,,Full,,,None,Part
+Heyford,1855,13661,14215,,,Part,ü,,None,Part
+Ruabon,1856,13620,14850,,,No,,,None,None
+Newton On Ayr,1857,13600,13271,,,Part,ü,,Full,Part
+Hawarden,1858,13585,14612,,,Part,,,None,None
+Sholing,1859,13564,14256,,,Part,ü,ü,None,Part
+Honley,1860,13481,13230,,,No,,,None,None
+Darsham,1861,13457,14454,,,Full,,,None,Part
+Halewood,1862,13446,12676,,,Full,ü,,Full,Part
+Ashfield,1863,13371,16125,,,Full,ü,,None,Part
+St James Park,1864,13347,13886,,,Full,ü,,None,Part
+Woodhall,1865,13343,13410,,,Full,ü,,Part,Part
+Shildon,1866,13322,12177,,,Full,,,None,Part
+Reedham Norfolk,1867,13302,14371,,,Part,,ü,None,Part
+Goxhill,1868,13300,12896,,,Full,ü,,None,Part
+Hathersage,1869,13293,12781,,,Full,ü,,None,Part
+Codsall,1870,13209,13915,,,Full,,,None,Part
+Chappel & Wakes Colne,1871,13174,13451,,,Part,ü,ü,None,Part
+Adderley Park,1872,13139,15035,,,No,,,Full,Part
+Dumpton Park,1873,13086,14690,,,No,ü,,None,Part
+Silverdale,1874,13023,14418,,,No,,,None,None
+Gomshall,1875,12994,13251,,,Full,ü,ü,None,Part
+Wraysbury,1876,12978,16394,,,Part,ü,ü,None,Part
+Fernhill,1877,12967,13273,,,Full,,,None,Part
+Calstock,1878,12930,12809,,,Full,ü,,None,Part
+Saltash,1879,12840,14357,,,Full,ü,,None,Part
+Collingham,1880,12817,12860,,,Full,,,None,Part
+Ynyswen,1881,12739,12193,,,Full,,,None,Part
+Blackpool Pleasu,1882,12727,11451,,,Full,ü,,None,Part
+Sarn,1883,12715,12930,,,Full,,,None,Part
+Hope Derbyshire,1884,12676,13873,,,No,ü,,None,Part
+Emerson Park,1885,12644,18334,,,Part,ü,ü,None,Part
+Heswall,1886,12627,13662,,,Full,,,None,Part
+Brockholes,1887,12609,15755,,,Full,ü,,None,Part
+Holmwood,1888,12586,13851,,,No,,,None,None
+Nafferton,1889,12492,12527,,,Full,ü,,None,Part
+Bow Brickhill,1890,12490,12438,,,Full,ü,,None,Part
+Yalding,1891,12487,13856,,,No,,,None,None
+St Bees,1892,12397,14706,,,Full,,,None,Part
+Cooksbridge,1893,12343,12562,,,No,,ü,None,Part
+Glazebrook,1894,12336,12566,,,Full,,,Part,Part
+Lye,1895,12333,13057,,,Full,,,Full,Part
+St Germans,1896,12294,13387,,,Full,ü,,None,Part
+Goostrey,1897,12230,13045,,,Full,,,None,Part
+Bottesford,1898,12224,12991,,,No,,,None,None
+Alsager,1899,12182,13168,,,Full,,,None,Part
+Danby,1900,12165,12380,,,Full,,,None,Part
+Park Street,1901,12165,12950,,,Full,ü,,None,Part
+Riding Mill,1902,12036,13141,,,No,ü,ü,None,Part
+Ridgmont,1903,12022,12275,,,Full,ü,,None,Part
+Bedminster,1904,12013,12804,,,Full,ü,,None,Part
+Elmswell,1905,12012,12621,,,Full,,,None,Part
+Prestbury,1906,11830,13190,,,No,,,None,None
+Maryhill,1907,11783,14865,,,Full,ü,,None,Part
+New Holland,1908,11782,11720,,,Full,ü,ü,None,Part
+Trafford Park,1909,11737,11294,,,No,,,None,None
+Kingussie,1910,11672,12143,,,No,,,Part,None
+Grindleford,1911,11669,12739,,,No,ü,,None,Part
+Caersws,1912,11641,11959,,,Full,,,None,Part
+Hyde Central,1913,11589,13163,,,No,,,None,None
+Whitwell,1914,11583,11338,,,Full,,ü,None,Part
+Glaisdale,1915,11546,11583,,,Full,ü,,None,Part
+Briton Ferry,1916,11333,11536,,,Full,,,None,Part
+Meols Cop,1917,11299,10874,,,No,,,None,None
+West Allerton,1918,11219,9595,,,No,ü,,Full,Part
+Sanquhar,1919,11023,11094,,,Full,ü,,None,Part
+Brandon,1920,11013,11154,,,Full,,,None,Part
+Midgham,1921,10992,11849,,,Full,ü,,None,Part
+Newton Aycliffe,1922,10985,11564,,,Full,,,None,Part
+Maiden Newton,1923,10934,11199,,,Full,ü,,None,Part
+Weston Milton,1924,10895,10255,,,No,ü,,None,Part
+Gretna Green,1925,10876,11900,,,Part,ü,,None,Part
+Ockley,1926,10820,11879,,,No,,,None,None
+Howwood (Sclyde),1927,10803,13056,,,Full,ü,,None,Part
+Crediton,1928,10729,10878,,,Full,ü,,None,Part
+Hattersley,1929,10671,11688,,,No,,,Part,None
+Trimley,1930,10666,10953,,,Full,,ü,None,Part
+Chelford Ches,1931,10565,10946,,,Full,,,None,Part
+Hessle,1932,10519,12293,,,Full,ü,,None,Part
+Coatbridge Central,1933,10516,11774,,,Part,,,None,None
+Silkstone Common,1934,10481,11295,,,No,ü,ü,None,Part
+Braintree Freeport,1935,10480,9506,,,Part,ü,ü,None,Part
+Rose Grove,1936,10451,10690,,,No,,,None,None
+Hope Clwyd,1937,10432,11069,,,No,,,None,None
+Gilfach Fargoed,1938,10407,10609,,,Full,,,None,Part
+Brithdir,1939,10403,9992,,,Full,,,None,Part
+Kiveton Park,1940,10391,11045,,,Full,,,None,Part
+Crews Hill,1941,10388,14055,,,No,ü,,None,Part
+Aberdovey,1942,10356,10946,,,Full,,,None,Part
+Mount Vernon,1943,10356,12560,,,Full,ü,,None,Part
+Garth,1944,10348,9476,,,Full,,,None,Part
+Morden South,1945,10339,11991,,,No,ü,,None,Part
+Chassen Road,1946,10337,10573,,,Full,ü,,Part,Part
+Caergwrle,1947,10328,11314,,,Full,,,None,Part
+Woodley,1948,10279,10044,,,Full,,,None,Part
+Kiveton Bridge,1949,10270,10275,,,Full,ü,,None,Part
+Pembroke,1950,10262,9843,,,Full,,,None,Part
+Llansamlet,1951,10236,10943,,,Full,,,None,Part
+Waun Gron Park,1952,10206,10892,,,Full,,,None,Part
+Knighton,1953,10205,10416,,,No,,,None,None
+Canning Town,1954,10127,22071,,,Full,,ü,Full,Part
+Skewen,1955,10093,10970,,,Full,,,None,Part
+Matlock Bath,1956,10090,9821,,,Full,,,None,Part
+Cherry Tree,1957,10058,10835,,,Full,ü,,None,Part
+Bilbrook,1958,10057,9917,,,Full,,,None,Part
+Fenny Stratford,1959,9991,9873,,,Full,ü,,None,Part
+Dalton Cumbria,1960,9929,10166,,,Full,,,None,Part
+Lambhill/Gilsc,1961,9864,10514,,,No,ü,,None,Part
+Lidlington,1962,9800,10111,,,Part,ü,,None,Part
+Possilpark,1963,9790,11371,,,Full,ü,,None,Part
+Dingle Road,1964,9785,10400,,,Full,,,None,Part
+Church & Oswald,1965,9752,10284,,,No,ü,,None,Part
+Seascale,1966,9736,9817,,,No,,,None,None
+Melton Suffolk,1967,9645,10183,,,Full,,,None,Part
+Hammerton,1968,9586,11548,,,Full,ü,,None,Part
+Monks Risborough,1969,9577,13288,,,Full,ü,,None,Part
+Moorside,1970,9568,9694,,,No,,,Part,None
+Chilham,1971,9543,10596,,,Part,,,None,None
+Llanrwst,1972,9482,9130,,,Full,,,None,Part
+Melksham,1973,9481,9662,,,Full,ü,,None,Part
+Derker,1974,9428,9710,,,No,,,None,None
+Kirkby Stephen,1975,9363,9254,,,Full,ü,ü,None,Part
+Devonport,1976,9361,9434,,,Part,ü,,None,Part
+Bishopstone,1977,9349,9933,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Lealholm,1978,9298,9359,,,Full,ü,,None,Part
+Heworth,1979,9287,10111,,,Full,,,None,Part
+Dullingham,1980,9281,10313,,,Full,,,None,Part
+Rainford,1981,9229,9355,,,Full,,,None,Part
+Honeybourne,1982,9225,9466,,,Full,ü,,None,Part
+Llanaber,1983,9222,9176,,,No,,,None,None
+Ambergate,1984,9213,9319,,,Full,,,None,Part
+Edge Hill,1985,9142,9417,,,No,ü,,Full,Part
+Ferryside,1986,9124,9738,,,Full,,,None,Part
+Ore,1987,9117,10432,,,No,,,None,None
+Bedworth,1988,9112,10878,,,Full,,,None,Part
+Tackley,1989,9064,9131,,,Full,ü,,None,Part
+Longton,1990,8986,9611,,,No,,,None,None
+Dean Lane,1991,8985,10271,,,Full,ü,,None,Part
+Grosmont,1992,8983,8985,,,Full,ü,,None,Part
+Freshford,1993,8912,9845,,,Full,ü,,None,Part
+Lowdham,1994,8910,8911,,,Full,,,None,Part
+Gleneagles,1995,8824,10072,,,Part,,,None,None
+Fishguard Harbour,1996,8812,9254,,,Full,,,None,Part
+Duffield,1997,8808,9354,,,No,,,None,None
+Kents Bank,1998,8800,8380,,,Full,,,None,Part
+Deighton,1999,8795,7629,,,Full,,,None,Part
+Islip,2000,8779,9845,,,Full,ü,,None,Part
+Bere Ferrers,2001,8776,9032,,,Part,ü,,None,Part
+Wickham Market,2002,8739,9149,,,Full,,,None,Part
+Lockwood,2003,8606,9700,,,Full,ü,ü,None,Part
+Langwathby,2004,8574,8885,,,Full,,,None,Part
+Llandovery,2005,8562,8782,,,Full,,,None,Part
+Brierfield,2006,8506,8407,,,Full,ü,,None,Part
+Kennishead,2007,8387,10781,,,Full,ü,,None,Part
+Foxfield,2008,8384,8901,,,Full,ü,,None,Part
+Langho,2009,8382,8015,,,No,ü,,None,Part
+Wick,2010,8367,11199,,,Full,ü,,Part,Part
+Bloxwich North,2011,8337,8088,,,Full,,,None,Part
+Carlton,2012,8276,8366,,,Full,,,None,Part
+Patchway,2013,8242,8656,,,No,ü,,None,Part
+Denham Golf Club,2014,8229,9329,,,Part,ü,,None,Part
+Muir Of Ord,2015,8210,13845,,,Full,,,None,Part
+Aslockton,2016,8175,7816,,,Full,,,None,Part
+Conwy,2017,8171,9161,,,Part,,,Part,None
+Crowle,2018,8117,8030,,,Full,,,None,Part
+Lelant Saltings,2019,8092,8909,,,Full,ü,,None,Part
+Worstead,2020,8079,9958,,,Full,,,None,Part
+Hatton,2021,8057,10731,,,Part,,,None,None
+Pen-y-fford,2022,8053,8726,,,No,,,None,None
+Whitchurch Glam,2023,8043,8135,,,Full,,,None,Part
+Stewartby,2024,8036,7921,,,Full,ü,,None,Part
+Farnworth,2025,8006,7916,,,Full,,,Part,Part
+Haydon Bridge,2026,8004,8051,,,Full,,,None,Part
+New Cumnock,2027,7999,7823,,,Full,ü,,None,Part
+White Notley,2028,7982,9749,,,Part,ü,ü,None,Part
+Bayford,2029,7977,9018,,,Part,ü,,None,Part
+Bloxwich,2030,7959,9319,,,Full,,,None,Part
+Furness Vale,2031,7874,7993,,,Full,ü,,None,Part
+Dodworth,2032,7856,7675,,,No,ü,,None,Part
+Stone Staffs,2033,7854,8684,,,No,,,None,None
+Paisley St James,2034,7846,9023,,,No,ü,,None,Part
+Deansgate,2035,7812,8058,,,Full,ü,ü,Full,Full
+Westenhanger,2036,7798,7851,,,No,,,None,None
+Weeley,2037,7765,9577,,,Part,ü,ü,None,Part
+Kirkconnel,2038,7748,7833,,,No,ü,,None,Part
+Chilworth,2039,7725,7711,,,Full,ü,ü,None,Part
+Berry Brow,2040,7691,7790,,,Full,,,None,Part
+Stocksmoor,2041,7682,8834,,,Full,,,None,Part
+Bamford,2042,7671,7839,,,No,ü,,None,Part
+Trefforest,2043,7632,8858,,,No,,,None,None
+Cottingley,2044,7621,7648,,,No,ü,ü,None,Part
+Streethouse,2045,7608,5801,,,No,,,None,None
+Priesthill,2046,7466,9682,,,Part,ü,,None,Part
+Sherburn in Elmet,2047,7466,7800,,,No,ü,,None,Part
+Roose,2048,7373,6711,,,Full,,,None,Part
+Snowdown,2049,7371,8142,,,No,,,None,Part
+East Farleigh,2050,7364,8192,,,Part,,,None,Unknown
+Dyffryn Ardudwy,2051,7328,8141,,,Full,,,None,Part
+Bruton,2052,7302,7404,,,Part,ü,,None,Part
+Dunkeld,2053,7297,8109,,,Part,,,None,None
+Fairwater,2054,7256,7278,,,Full,,,None,Part
+Lapworth,2055,7224,9340,,,Part,,,None,None
+Rhoseneigr,2056,7165,7345,,,Full,,,None,Part
+Rufford,2057,7095,7239,,,Full,ü,,None,Part
+Wrabness,2058,7094,7441,,,Part,ü,,None,Part
+Hyde North,2059,7071,7798,,,No,,,None,None
+Kidwelly,2060,7066,7532,,,Full,,,None,Part
+Staveley,2061,7045,7952,,,No,,,None,None
+Willington,2062,7020,6708,,,No,,,None,None
+Whatstandwell,2063,7001,7545,,,Full,,,None,Part
+Humphrey Park,2064,6971,7276,,,No,ü,,None,Part
+Appledore,2065,6961,8498,,,Full,,,None,Part
+Shoreham by Sea,2066,6935,9068,,,Part,ü,ü,None,Part
+Talybont,2067,6929,7740,,,Full,,,None,Part
+Ninian Park,2068,6867,7452,,,Full,,,None,Part
+Kirkby in Furness,2069,6849,7181,,,Full,ü,,None,Part
+Sunnymeads,2070,6829,7905,,,No,ü,ü,None,Part
+North Road,2071,6801,6883,,,No,,,None,None
+Thurston,2072,6795,6588,,,Full,,ü,None,Part
+Wester Hailes,2073,6710,8417,,,Full,ü,,None,Part
+Patricroft,2074,6654,7356,,,No,,,None,None
+Kearsley,2075,6645,6719,,,No,,,None,None
+Ammanford,2076,6645,7283,,,Full,,,None,Part
+Hykeham,2077,6622,6698,,,Full,,,None,Part
+Pentre Bach,2078,6620,7120,,,Full,,,None,Part
+Whittlesea,2079,6574,6757,,,Full,,,None,Part
+Hapton,2080,6564,6917,,,Full,ü,,None,Part
+Radcliffe (Notts),2081,6558,6662,,,No,,,None,None
+Plumley,2082,6536,6658,,,Full,,,None,Part
+Hunmanby,2083,6491,6735,,,Full,ü,,None,Part
+Cantley,2084,6484,7552,,,Part,,,None,None
+Dalston,2085,6483,7406,,,Full,,,None,Part
+Kingsknowe,2086,6478,7616,,,Full,ü,,None,Part
+Nitshill,2087,6476,8758,,,Part,ü,,None,Part
+Oulton Broad S,2088,6471,7391,,,Full,,,None,Part
+Rannoch,2089,6455,6007,,,No,,,None,None
+Beaulieu Road,2090,6424,6674,,,Part,ü,ü,None,Part
+Wild Mill,2091,6375,6452,,,Full,,,None,Part
+Angel Road,2092,6275,10446,,,No,,ü,None,Part
+Ravenglass,2093,6224,6562,,,Full,,,None,Part
+Criccieth,2094,6203,6138,,,Full,,,None,Part
+Lazonby,2095,6180,6524,,,Full,,,None,Part
+Sudbury Hill,2096,6160,7509,,,Insufficient info provided by station operator,ü,,None,Part
+Thorntonhall,2097,6143,7301,,,Full,ü,,None,Part
+Needham Market,2098,6119,5895,,,Part,,ü,None,Part
+Upton,2099,6110,6735,,,Part,,,None,None
+Baglan,2100,6080,6496,,,Full,,,None,Part
+Lostock Gralam,2101,6073,6875,,,No,,,None,None
+Egton,2102,6071,6078,,,No,,,None,None
+Redbridge Hants,2103,6047,6098,,,Part,ü,ü,None,Part
+Oakengates,2104,6036,5933,,,No,,,None,None
+Cromford,2105,6024,6002,,,No,,,None,None
+Pontefract Tanshelf,2106,5972,6357,,,Full,,,None,Part
+Adlington Cheshire,2107,5964,6632,,,Full,,,None,Part
+WILMCOTE,2108,5854,8440,,,No,,,None,None
+Delamere,2109,5821,6180,,,Full,ü,,None,Part
+Bentham,2110,5816,5800,,,No,ü,ü,None,Part
+Beauly,2111,5808,15529,,,Full,,,None,Part
+Exton,2112,5799,6260,,,Full,ü,,None,Part
+West Runton,2113,5776,7086,,,Full,,,None,Part
+Ribblehead,2114,5720,5814,,,Full,ü,,None,Part
+Llandeilo,2115,5610,5856,,,No,,,None,None
+Perranwell,2116,5532,5578,,,Full,ü,,None,Part
+Penhelig,2117,5509,5642,,,No,,,None,Part
+Slateford,2118,5493,6410,,,No,ü,,None,Part
+Eggesford,2119,5485,5945,,,Full,ü,,None,Part
+Bogston,2120,5457,5940,,,No,ü,,None,Part
+Upholland,2121,5440,5827,,,No,,,None,None
+Wedgwood,2122,5429,5189,,,Full,,,None,Part
+Horton In Ribble,2123,5428,5437,,,Full,ü,,None,Part
+Gunton,2124,5400,5928,,,Full,,,None,Part
+Millbrook Beds,2125,5391,5537,,,Full,ü,,None,Part
+Glan Conwy,2126,5388,5359,,,Full,ü,,None,Part
+Clunderwen,2127,5350,5608,,,Full,,,None,Part
+Aspley Guise,2128,5306,5680,,,Full,ü,,None,Part
+Aspatria,2129,5271,5555,,,Full,,,None,Part
+Betchworth,2130,5265,5440,,,Full,ü,ü,None,Part
+Middlewood,2131,5249,5441,,,No,ü,,None,Part
+Golspie,2132,5248,1784,,,Full,,,None,Part
+Gowerton,2133,5248,5365,,,Full,,,None,Part
+Whitlocks End,2134,5246,8075,,,Full,,,None,Part
+Moses Gate,2135,5184,4875,,,Full,,,None,Part
+The Lakes,2136,5167,6133,,,Full,,,None,Part
+Llanbedr,2137,5142,5615,,,Full,,,None,Part
+Dunbridge,2138,5137,5503,,,Full,,,None,Part
+Ryder Brow,2139,5123,5467,,,Full,,,None,Part
+Minffordd,2140,5122,5113,,,Full,,,None,Part
+Dilton Marsh,2141,5111,5373,,,Full,ü,,None,Part
+Hartwood,2142,5102,5326,,,Full,ü,,None,Part
+Squires Gate,2143,5085,4831,,,No,ü,,None,Part
+Huncoat,2144,5077,5137,,,Full,ü,,None,Part
+Dinsdale,2145,5068,4663,,,Full,,,None,Part
+Millbrook Hants,2146,4971,5386,,,No,ü,ü,None,Part
+Dronfield,2147,4952,4685,,,Full,,,None,Part
+Spondon,2148,4864,5133,,,Full,,,None,Part
+Belle Vue,2149,4862,5893,,,No,,,None,None
+Llanwrst,2150,4851,4775,,,No,,,None,None
+Great Coates,2151,4848,4014,,,Full,ü,ü,None,Part
+Crianlarich,2152,4824,4988,,,No,,,None,None
+Seaton Carew,2153,4818,4954,,,Full,ü,,None,Part
+Narberth,2154,4799,4940,,,Full,,,None,Part
+Woodhouse,2155,4789,5077,,,No,ü,,None,Part
+Carstairs,2156,4748,4659,,,No,ü,,Full,Part
+Rolleston,2157,4746,4755,,,Full,,,None,Part
+Kemsing,2158,4727,4982,,,No,,,None,Part
+Garsdale,2159,4715,5372,,,Full,,,None,Part
+Cowden,2160,4698,5117,,,Full,,,None,Part
+Garve,2161,4645,2483,,,No,,,None,None
+Bootle Cumbria,2162,4565,4725,,,Full,,,None,Part
+Keyham,2163,4552,4405,,,No,ü,,None,Part
+Corkickle,2164,4509,4839,,,Full,,,None,Part
+Hellifield,2165,4505,4640,,,Full,,,None,Part
+Tain,2166,4499,6384,,,Part,,,None,None
+Battlesbridge,2167,4484,4772,,,Full,ü,,None,Part
+Shireoaks,2168,4429,4421,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Arrochar & Tar,2169,4426,3236,,,No,,,None,None
+Normans Bay,2170,4400,4647,,,No,,,None,None
+Gargrave,2171,4397,4781,,,No,ü,ü,None,Part
+Wood End,2172,4383,5316,,,No,,,None,None
+Llanwrtyd,2173,4380,4369,,,No,,,None,None
+Deepdene,2174,4379,4420,,,No,ü,ü,None,Part
+Ulceby,2175,4363,4087,,,No,,,None,None
+Dean Wilts,2176,4317,4493,,,Full,ü,,None,Part
+Bempton,2177,4289,4469,,,Full,ü,,None,Part
+Corrour,2178,4286,5601,,,No,,,None,None
+Mouldsworth,2179,4283,4775,,,No,,,None,None
+Nunthorpe,2180,4254,3898,,,Full,,,None,Part
+Penmaenmawr,2181,4243,4407,,,Part,,,None,None
+Healing,2182,4240,3884,,,No,,,None,None
+Rugeley Trent Valley,2183,4211,4653,,,No,,,None,None
+Cefn Y Bedd,2184,4149,4928,,,Part,,,None,None
+Drigg,2185,4149,4103,,,Full,,,None,Part
+Blair Atholl,2186,4146,4467,,,Full,ü,,None,Part
+Netherfield,2187,4124,4390,,,No,,,None,None
+Wetheral,2188,4085,4158,,,No,ü,,None,Part
+Llanfairfechan,2189,4083,4234,,,Full,,,None,Part
+Shieldmuir,2190,4045,4422,,,Full,ü,,None,Part
+Mobberley,2191,4040,4827,,,Full,,,None,Part
+Entwistle,2192,4039,4151,,,Full,,,None,Part
+Longport,2193,4037,4176,,,No,,,None,None
+Armathwaite,2194,4008,4332,,,No,ü,,None,Part
+Holton Heath,2195,4001,4308,,,Part,ü,ü,None,Part
+Johnston Dyfed,2196,3993,4341,,,Full,,,None,Part
+Avoncliff,2197,3987,3941,,,No,ü,,None,Part
+Burton Joyce,2198,3956,4139,,,Full,,,None,Part
+Wrenbury,2199,3950,3950,,,Full,,,None,Part
+Kilgetty,2200,3949,4177,,,Full,,,None,Part
+Strathcarron,2201,3932,3910,,,Part,,,None,None
+Pleasington,2202,3929,4372,,,Full,ü,,None,Part
+Harrington,2203,3924,4109,,,No,,,None,None
+Umberleigh,2204,3913,4038,,,Full,ü,,None,Part
+Sudbury & Harrow Road,2205,3898,3841,,,Insufficient info provided by station operator,ü,,None,Part
+Gypsy Lane,2206,3892,3371,,,Full,ü,ü,None,Part
+Yeoford,2207,3881,4112,,,Full,ü,,None,Part
+Somerleyton,2208,3879,3709,,,Full,,,None,Part
+Hartlebury,2209,3867,4565,,,Full,,,None,Part
+Plockton,2210,3859,4101,,,Full,,,None,Part
+Giggleswick,2211,3828,4321,,,Full,ü,,None,Part
+Dent,2212,3713,3971,,,Full,ü,,None,Part
+Stallingborough,2213,3694,3731,,,Full,ü,,None,Part
+Long Preston,2214,3577,3768,,,Full,,,None,Part
+Addiewell,2215,3561,3994,,,Part,ü,,None,Part
+Arisaig,2216,3551,4127,,,Part,,,None,None
+Ravensthorpe,2217,3544,4103,,,No,ü,ü,None,Part
+Allerton,2218,3512,4219,,,No,ü,,Full,Part
+Portlethen,2219,3506,3672,,,Full,ü,,None,Part
+Hever,2220,3496,3914,,,No,,,None,None
+Tyndrum Lower,2221,3390,3547,,,Full,,,None,Part
+Dolwyddelan,2222,3372,3306,,,Full,,,None,Part
+Builth Road,2223,3366,3634,,,Full,,,None,Part
+Kennett,2224,3354,3544,,,Part,,,None,None
+Appleford,2225,3319,3838,,,No,ü,,None,Part
+Deganwy,2226,3296,3675,,,Part,ü,,None,Part
+Taynuilt,2227,3288,4249,,,Full,,,None,Part
+Maesteg (Ewenny Road),2228,3263,2927,,,Full,,,None,Part
+Brampton Cumbria,2229,3256,3748,,,No,,,None,None
+Llanfairpwll,2230,3256,3267,,,Full,,,None,Part
+Ince Manchr,2231,3236,3460,,,Full,,,None,Part
+Heysham,2232,3209,3579,,,Full,,,None,Part
+Menheniot,2233,3194,3360,,,Full,ü,,None,Part
+Wootton Wawen,2234,3191,3726,,,Full,,,None,Part
+Fiskerton,2235,3189,3274,,,Full,,,None,Part
+Beltring,2236,3170,3759,,,No,,,None,None
+Burneside,2237,3163,3050,,,Full,,,None,Part
+Ardrossan Town,2238,3157,3975,,,Full,ü,,None,Part
+Lelant,2239,3134,3779,,,No,,,None,None
+Silecroft,2240,3090,3271,,,Full,,,None,Part
+Etruria,2241,3078,3488,,,No,,,None,None
+Southease,2242,3055,3170,,,No,,,None,None
+Heighington,2243,3023,4233,,,Full,ü,,None,Part
+Morfa Mawddach,2244,2990,3408,,,Full,,,None,Part
+Prees,2245,2977,3217,,,Full,,,None,Part
+Roughton Road,2246,2972,3410,,,No,,,None,None
+Pinhoe,2247,2961,2560,,,Part,ü,ü,None,Part
+Saltmarshe,2248,2886,2568,,,Full,,,None,Part
+Widdrington,2249,2879,2602,,,Full,ü,,None,Part
+Atherstone Warks,2250,2809,2970,,,Part,,,None,None
+Ancaster,2251,2805,3350,,,Part,,,None,None
+Faygate,2252,2747,2889,,,No,,,None,None
+Westerfield,2253,2744,3039,,,Full,,ü,None,Part
+Yetminster,2254,2704,2789,,,Full,ü,,None,Part
+Parton,2255,2694,2310,,,No,ü,,None,Part
+Barlaston,2256,2684,3018,,,Full,,,None,Part
+St Budeaux Va Rd,2257,2612,2839,,,Full,ü,,None,Part
+Green Road,2258,2585,2737,,,Full,,,None,Part
+Invergordon,2259,2580,4489,,,Full,,,None,Part
+Wrexham Central,2260,2565,3411,,,Full,ü,,None,Part
+Clapham North Yorks,2261,2542,2747,,,No,ü,,None,Part
+Broughty Ferry,2262,2536,2701,,,Full,,,None,Part
+Barrhill,2263,2524,3019,,,Part,,,None,None
+Danzey,2264,2516,2872,,,Part,,,None,None
+Farnborough Nort,2265,2478,2402,,,Full,ü,ü,None,Part
+Ashurst,2266,2470,2588,,,No,,,None,None
+Spean Bridge,2267,2444,2636,,,Full,,,None,Part
+Bardon Mill,2268,2441,2360,,,Full,ü,,None,Part
+Lapford,2269,2426,2486,,,Full,ü,,None,Part
+Bleasby,2270,2411,2144,,,Full,,,None,Part
+Shipton,2271,2407,2650,,,Full,ü,,None,Part
+Bridge Of Orchy,2272,2367,2549,,,No,,,None,None
+South Greenford,2273,2355,4663,,,Full,ü,,None,Part
+Llangadog,2274,2341,2430,,,Full,,,None,Part
+Commondale,2275,2339,2417,,,Full,,,None,Part
+Haddiscoe,2276,2338,2622,,,Full,,,None,Part
+Dove Holes,2277,2331,2578,,,Full,ü,,None,Part
+Three Oaks,2278,2330,3161,,,No,,,None,None
+Llandybie,2279,2327,2417,,,Full,,,None,Part
+Talsarnau,2280,2326,2480,,,Full,,,None,Part
+Darnall,2281,2311,2486,,,Full,ü,,None,Part
+Winchelsea,2282,2298,2901,,,Full,,,None,Part
+Ulleskelf,2283,2290,2363,,,Full,,,None,Part
+Norton Bridge,2284,2288,2505,,,No,,,None,None
+Grimsby Docks,2285,2272,2533,,,Full,,,None,Part
+Yorton,2286,2251,1921,,,No,,,None,None
+Acton Bridge,2287,2243,2364,,,No,,,None,None
+Morchard Road,2288,2205,2471,,,Full,ü,,None,Part
+Drayton Green,2289,2155,3884,,,No,ü,,None,Part
+Bucknell,2290,2144,2177,,,Full,,,None,Part
+Brampton Suffolk,2291,2103,2354,,,Part,,,None,None
+Brundall Gardens,2292,2085,2696,,,No,,,None,None
+Dockyard Devonpt,2293,2042,2028,,,No,ü,,None,Part
+Kings Nympton,2294,2029,1984,,,Full,ü,,None,Part
+Brora,2295,2021,2003,,,Part,,,None,None
+Fairfield,2296,1985,2279,,,No,,,None,None
+Newtonmore,2297,1977,2207,,,Full,,,None,Part
+Flimby,2298,1971,1988,,,No,,,None,None
+Warnham,2299,1971,2132,,,No,,,None,None
+Lairg,2300,1969,2357,,,Part,,,None,None
+Pantyffynnon,2301,1965,1951,,,Full,,,None,Part
+Broomfleet,2302,1912,1817,,,Full,ü,,None,Part
+Strines,2303,1909,1965,,,Full,ü,,None,Part
+Helmsdale,2304,1851,2121,,,Part,,,None,None
+Parson Street,2305,1845,2087,,,No,ü,,None,Part
+Saundersfoot,2306,1841,2088,,,Full,,,None,Part
+Manorbier,2307,1779,1928,,,Full,,,None,Part
+Garelochead,2308,1778,2090,,,No,,,None,None
+Ashley,2309,1774,2094,,,Full,,,None,Part
+Roy Bridge,2310,1742,1894,,,No,,,None,None
+Ty Croes,2311,1725,1787,,,Full,,,None,Part
+Great Ayton,2312,1700,1669,,,Full,,,None,Part
+Swale,2313,1679,1896,,,No,,,None,None
+Glenfinnan,2314,1671,1996,,,Part,,,None,None
+Morar,2315,1614,1934,,,Full,,,None,Part
+Penally,2316,1543,1969,,,Full,,,None,Part
+Kempston Hardwk,2317,1539,1613,,,Full,ü,,None,Part
+Knucklas,2318,1538,1651,,,Full,,,None,Part
+Swinderby,2319,1527,1374,,,Full,,,None,Part
+Llandanwg,2320,1515,1622,,,Full,,,None,Part
+Little Kimble,2321,1467,2467,,,Full,ü,,None,Part
+Clarbeston Road,2322,1438,1415,,,Full,,,None,Part
+Broome,2323,1418,1411,,,No,,,None,None
+Salhouse,2324,1409,1594,,,Part,,,None,None
+Smallbrook Junction,2325,1398,1597,,,Part,,,None,None
+Althorpe Humber,2326,1380,1403,,,No,,,None,None
+Moss Side,2327,1379,1698,,,Full,,,None,Part
+Ffairfach,2328,1373,1196,,,Full,,,None,Part
+New Lane,2329,1356,1347,,,Full,,,None,Part
+Ardgay,2330,1349,1154,,,Part,,,None,None
+St Andrews Road,2331,1341,1680,,,No,ü,,None,Part
+Butlins Pnychain,2332,1336,1447,,,Full,,,None,Part
+Tulloch,2333,1326,1513,,,Full,,,None,Part
+Barrow Haven,2334,1324,1779,,,Full,ü,,None,Part
+Manea,2335,1311,1265,,,Full,,,None,Part
+Polesworth,2336,1296,1341,,,No,,,None,None
+Seaburn,2337,1293,2237,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Bodorgan,2338,1287,1453,,,Part,,,None,None
+Alness,2339,1284,2433,,,Full,,,None,Part
+Connel Ferry,2340,1270,1416,,,Full,,,None,Part
+Pegswood,2341,1265,1152,,,Full,,,None,Part
+Pontarddulais,2342,1229,1256,,,Full,,,None,Part
+Sleights,2343,1219,1263,,,Full,,,None,Part
+Havenhouse,2344,1218,1287,,,Full,,,None,Part
+Marton,2345,1205,1322,,,No,,,None,None
+Banavie,2346,1196,1722,,,Full,,,None,Part
+Lamphey,2347,1183,1188,,,Full,,,None,Part
+Claverdon,2348,1168,1552,,,Full,,,None,Part
+Llangamarch,2349,1165,1248,,,Full,,,None,Part
+Pevensey Bay,2350,1154,1322,,,No,,,None,None
+Longcross,2351,1145,1153,,,Part,ü,ü,None,Part
+Dalmally,2352,1119,1211,,,Full,,,None,Part
+Arram,2353,1096,1058,,,Full,ü,,None,Part
+Achnasheen,2354,1088,1059,,,Part,,,None,None
+Ruswarp,2355,1072,931,,,Full,,,None,Part
+Garth,2356,1068,1201,,,Full,,,None,Part
+Blaydon,2357,1066,1084,,,No,,,None,None
+Wennington,2358,1042,963,,,No,ü,,None,Part
+Bescar Lane,2359,1020,1131,,,Full,,,None,Part
+Hoscar,2360,1019,1023,,,Full,,,None,Part
+Eccles Road,2361,1014,1075,,,No,,,None,None
+Ascott U Wych,2362,1003,1047,,,Part,ü,,None,Part
+Bearley,2363,989,994,,,Full,,,None,Part
+Loch Awe,2364,987,1072,,,Full,,,None,Part
+Finstock,2365,984,815,,,Part,ü,,None,Part
+Causeland,2366,976,1123,,,Full,ü,,None,Part
+Corpach,2367,970,994,,,Full,,,None,Part
+Dalwhinnie,2368,929,1137,,,Part,,,None,None
+Pensarn,2369,928,906,,,Full,,,None,Part
+Tal-y-Cafn,2370,922,1057,,,Full,,,None,Part
+Llanwrda,2371,912,931,,,Full,,,None,Part
+Harling Road,2372,905,931,,,Full,,,None,Part
+Hawarden Bridge,2373,888,972,,,No,,,None,None
+Peartree,2374,876,942,,,Full,,,None,Part
+Culrain,2375,865,891,,,Full,,,None,Part
+Combe Oxon,2376,834,714,,,Full,ü,,None,Part
+Lochailort,2377,818,889,,,Full,,,None,Part
+Wressle,2378,818,786,,,Full,ü,ü,None,Part
+Chetnole,2379,815,891,,,No,ü,,None,Part
+Rogart,2380,805,698,,,Full,,,None,Part
+Thornford,2381,775,930,,,No,ü,,None,Part
+Dolgarrog,2382,771,723,,,Full,,,None,Part
+Ardlui,2383,758,811,,,No,,,None,None
+Chathill,2384,758,724,,,Full,,,None,Part
+Ince & Elton,2385,751,350,,,No,,,None,None
+Pont Y Pant,2386,734,1021,,,Full,,,None,Part
+Carrbridge,2387,722,809,,,Part,,,None,None
+Forsinard,2388,716,716,,,No,,,None,None
+Braystones,2389,685,951,,,No,,,None,None
+Cynghordy,2390,673,925,,,No,,,None,None
+Bordesley,2391,665,773,,,Part,,,None,None
+Manors,2392,656,753,,,No,,,None,None
+Fearn,2393,653,1256,,,Full,,,None,Part
+Swineshead,2394,645,872,,,Full,,,None,Part
+Invergowrie,2395,644,701,,,Part,,,None,None
+Battersby,2396,627,687,,,No,ü,,None,Part
+Kildale,2397,627,746,,,Full,ü,,None,Part
+Tonfanau,2398,624,587,,,Full,,,None,Part
+Doleham,2399,608,846,,,Full,ü,ü,None,Part
+Dolau,2400,601,676,,,Full,,,None,Part
+Snaith,2401,601,656,,,Full,ü,ü,None,Part
+Georgemas Jn,2402,583,546,,,No,,,None,None
+Copplestone,2403,579,652,,,Full,ü,,None,Part
+Hopton Heath,2404,575,592,,,No,,,None,None
+Sandplace,2405,574,632,,,Full,ü,,None,Part
+Newton St Cyres,2406,561,586,,,No,ü,,Full,Part
+Stromeferry,2407,558,608,,,Full,,,None,Part
+St Keyne,2408,553,597,,,Full,ü,,None,Part
+Berney Arms,2409,532,573,,,Part,,,None,None
+Llangenech,2410,525,535,,,No,,,None,None
+Monifieth,2411,521,510,,,Full,,,None,Part
+Thurgarton,2412,497,512,,,Full,,,None,Part
+Cilmeri,2413,474,501,,,Full,,,None,Part
+Pen Y Bont,2414,472,540,,,Full,,,None,Part
+Quintrel Downs,2415,456,423,,,Full,ü,,None,Part
+St Budeaux Ferry Road,2416,455,532,,,Full,ü,,None,Part
+Burnley Barracks,2417,450,620,,,Full,ü,,None,Part
+Luxulyan,2418,436,569,,,No,ü,,None,Part
+Llanbister Road,2419,434,474,,,No,,,None,None
+Llangynllo,2420,419,459,,,Full,,,None,Part
+Styal,2421,412,341,,,Full,ü,,None,Part
+Balmossie,2422,411,386,,,Part,,,None,None
+Bugle,2423,408,428,,,No,ü,,None,Part
+St Columb Road,2424,408,405,,,Full,ü,,None,Part
+Chapelton Devon,2425,407,327,,,No,ü,,None,Part
+Kinbrace,2426,394,360,,,Full,,,None,Part
+Thornton Abbey,2427,389,401,,,Full,ü,,None,Part
+Acklington,2428,386,341,,,Full,,,None,Part
+East Boldon,2429,377,1191,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Dovey Junction,2430,372,432,,,Full,,,None,Part
+Llandecwyn,2431,351,407,,,No,,,None,None
+Breich,2432,333,358,,,Part,,,None,None
+Whitley Bridge,2433,331,365,,,Full,,,None,Part
+Springfield,2434,330,395,,,No,,,None,None
+Brockley,2435,300,607,3,,No,ü,ü,Part,Part
+Portsmouth Arms,2436,292,322,,,Full,ü,,None,Part
+Wakefield Kirkgate,2437,284,327,,,Full,,,None,Part
+Achnashellach,2438,282,382,,,Full,,,None,Part
+Hubberts Bridge,2439,282,323,,,Full,,,None,Part
+Loch Eil Out Bnd,2440,277,334,,,Full,,,None,Part
+Tygwyn,2441,271,322,,,Full,,,None,Part
+Bynea,2442,268,282,,,No,,,None,None
+Roche,2443,268,306,,,Full,ü,,None,Part
+Nethertown,2444,262,294,,,No,,,None,None
+Elton & Orston,2445,256,279,,,Full,,,None,Part
+Duirinish,2446,243,276,,,Full,,,None,Part
+Beasdale,2447,242,247,,,Full,,,None,Part
+Hensall,2448,229,247,,,Full,ü,ü,None,Part
+Abererch,2449,221,277,,,Full,,,None,Part
+Eastrington,2450,218,189,,,Full,,,None,Part
+Thorpe Culvert,2451,202,230,,,Full,,,None,Part
+Stanlow & Thornton,2452,195,187,,,No,,,None,None
+South Bank,2453,187,243,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Rawcliffe,2454,180,94,,,Full,ü,ü,None,Part
+Maidstone Barrac,2455,175,177,,,No,,,None,None
+Bedford St Johns,2456,167,543,,,Full,ü,,None,Part
+Locheilside,2457,167,157,,,Full,,,None,Part
+Lochluichart,2458,154,148,,,Full,,,None,Part
+Duncraig,2459,143,145,,,Full,,,None,Part
+Roman Bridge,2460,142,179,,,Full,,,None,Part
+Salwick,2461,138,130,,,Full,,,None,Part
+Invershin,2462,136,151,,,Full,,,None,Part
+Moorgate,2463,128,704,,,Part,ü,ü,Full,Part
+Ardwick,2464,121,160,,,No,,,None,None
+Dorchester West,2465,111,131,,,Full,ü,,None,Part
+New Clee,2466,107,351,,,Full,ü,ü,None,Part
+Attadale,2467,106,110,,,No,,,None,None
+Scotscalder,2468,105,103,,,Full,,,None,Part
+Redcar Br Steel,2469,102,95,,,No,ü,,None,Part
+Achanalt,2470,98,88,,,Full,,,None,Part
+Brigg,2471,88,116,,,No,,,None,None
+Dunrobin Castle,2472,84,107,,,Full,,,None,Part
+Spooner Row,2473,84,53,,,Full,,,None,Part
+Lakenheath,2474,78,112,,,Full,,,None,Part
+Rauceby,2475,77,130,,,Full,,,None,Part
+Dorking West,2476,76,78,,,Full,ü,ü,None,Part
+Pilning,2477,73,137,,,No,ü,,None,Part
+Clifton Down,2478,64,111,,,Full,ü,,None,Part
+Kirton Lindsey,2479,64,69,,,Full,,,None,Part
+Thorne South,2480,56,191,,,Full,ü,ü,None,Part
+Helensburgh Upp,2481,54,94,,,Full,,,None,Part
+Coombe,2482,49,22,,,Full,ü,,None,Part
+Sugar Loaf,2483,45,54,,,No,,,None,None
+Kildonan,2484,44,45,,,No,,,None,None
+Dunston,2485,41,62,,,Full,,,None,Part
+Altnabreac,2486,38,55,,,Full,,,None,Part
+Falls Of Cruacha,2487,32,36,,,No,,,None,None
+Upper Tyndrum,2488,30,23,,,No,,,None,None
+Teesside Airport,2489,25,31,,,No,ü,ü,None,Part
+Buckenham,2490,15,33,,,Part,,,None,None
+Pontefract Baghill,2491,15,21,,,Full,,,None,Part
+Shippea Hill,2492,11,18,,,No,,,None,None
+Watford West,2493,10,16,,,Insufficient info provided by station operator,,,Insufficient info provided by station operator,Unknown
+Golf St,2494,9,9,,,No,,,None,None
+Gainsborough Central,2495,5,3,,,Full,,,None,Part
+Barry Links,2496,3,5,,,Part,,,None,None
